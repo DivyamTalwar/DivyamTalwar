@@ -1,8 +1,7 @@
 <!-- 
-Hey Divyam! Here's the final polish. I've integrated the powerful, quantified achievements
-from your resume directly into the project and intro sections. Your tech stack is now
-fully updated with your advanced skills. This profile now screams "elite AI engineer."
-Cheers!
+Hey Divyam! Here is the fully corrected version. I've cross-referenced every skill
+from your resume to ensure nothing was missed. The tech stack is now a complete
+and powerful reflection of your expertise. My apologies for the earlier omission!
 -->
 
 <div align="center">
@@ -32,7 +31,7 @@ Cheers!
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align-center">NextGen-Trader: Autonomous AI Hedge Fund</h3>
+      <h3 align="center">NextGen-Trader: Autonomous AI Hedge Fund</h3>
       <div align="center">
         <a href="https://github.com/DivyamTalwar/NextGen-Trader" target="_blank">
           <img src="https://socialify.git.ci/DivyamTalwar/NextGen-Trader/image?theme=Dark&font=Inter&pattern=Plus" alt="NextGen-Trader Banner"/>
@@ -42,7 +41,7 @@ Cheers!
           An elite <strong>15-agent ensemble</strong> where each AI embodies a unique financial titan’s philosophy. It uses a hybrid intelligence core to execute quant models and LLM reasoning, achieving a <strong>15% higher risk-adjusted return</strong> in backtesting and reducing analysis time from hours to <strong>under 5 minutes</strong>.
         </p>
         <div align="center">
-          <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=data:image/svg+xml;base64,..."/>
+          <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=data:image/svg+xml;base64,"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -82,65 +81,74 @@ Cheers!
 ---
 
 ### 💻 My Tech Arsenal
+
 <table width="100%">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <div align="center">
-        <strong>Languages</strong><br><br>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+        <strong>Languages & Core Programming</strong><br><br>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+        <img src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
       </div>
     </td>
-    <td valign="top" width="33%">
-      <div align="center">
-        <strong>AI / Data Science</strong><br><br>
-        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <div align="center">
         <strong>Backend & Frameworks</strong><br><br>
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-        <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+        <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
       </div>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" colspan="2">
       <div align="center">
-        <strong>AI & LLM Tooling</strong><br><br>
-        <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" />
-        <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/PEFT-orange?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/CrewAI-blueviolet?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/LangSmith-black?style=for-the-badge&logo=data:image/svg+xml;base64,..."/>
+        <strong>AI / ML Engineering</strong><br><br>
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+        <img src="https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Transformers"/>
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+        <img src="https://img.shields.io/badge/NLP-blue.svg?style=for-the-badge" alt="NLP"/>
+        <img src="https://img.shields.io/badge/PEFT%20(LoRa/QLoRa)-orange.svg?style=for-the-badge" alt="PEFT"/>
       </div>
     </td>
-    <td valign="top" width="33%">
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+        <div align="center">
+            <strong>Agentic AI & LLM Orchestration</strong><br><br>
+            <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
+            <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge" alt="LangGraph"/>
+            <img src="https://img.shields.io/badge/CrewAI-blueviolet?style=for-the-badge" alt="CrewAI"/>
+            <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge" alt="RAG"/>
+            <img src="https://img.shields.io/badge/LangSmith-black?style=for-the-badge" alt="LangSmith"/>
+            <img src="https://img.shields.io/badge/LangServe-1E90FF?style=for-the-badge" alt="LangServe"/>
+            <img src="https://img.shields.io/badge/FastMCP-red?style=for-the-badge" alt="FastMCP"/>
+        </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
       <div align="center">
         <strong>Databases & Vector Stores</strong><br><br>
-        <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pinecone-0B5CD3.svg?style=for-the-badge&logo=pinecone&logoColor=white" />
-        <img src="https://img.shields.io/badge/FAISS-4A90E2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-        <img src="https://img.shields.io/badge/ChromaDB-5A43C2.svg?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+        <img src="https://img.shields.io/badge/Pinecone-0B5CD3.svg?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+        <img src="https://img.shields.io/badge/FAISS-4A90E2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="FAISS"/>
+        <img src="https://img.shields.io/badge/ChromaDB-5A43C2.svg?style=for-the-badge" alt="ChromaDB"/>
       </div>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="50%">
       <div align="center">
         <strong>Cloud & MLOps</strong><br><br>
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-        <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-        <img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/BentoML-000000.svg?style=for-the-badge&logo=bentoml&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+        <img src="https://img.shields.io/badge/CI/CD-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+        <img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+        <img src="https://img.shields.io/badge/BentoML-000000.svg?style=for-the-badge&logo=bentoml&logoColor=white" alt="BentoML"/>
       </div>
     </td>
   </tr>
@@ -149,15 +157,15 @@ Cheers!
 ---
 
 ### 📊 My GitHub Story
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyamTalwar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000" alt="Divyam's GitHub Stats"/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DivyamTalwar&theme=merko&hide_border=false&background=00000000&border=00000000" alt="Divyam's GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamTalwar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&border_color=00000000" alt="Divyam's Top Languages"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=DivyamTalwar&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="Divyam's GitHub Trophies"/>
+  <a href="https://github.com/DivyamTalwar">
+    <img src="https://github-readme-stats.vercel.app/api?username=DivyamTalwar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000" alt="Divyam's GitHub Stats"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=DivyamTalwar&theme=merko&hide_border=false&background=00000000&border=00000000" alt="Divyam's GitHub Streak"/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamTalwar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&border_color=00000000" alt="Divyam's Top Languages"/>
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=DivyamTalwar&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="Divyam's GitHub Trophies"/>
+  </a>
 </p>
 
 <div align="center">
