@@ -34,7 +34,7 @@ and powerful reflection of your expertise. My apologies for the earlier omission
       <h3 align="center">NextGen-Trader: Autonomous AI Hedge Fund</h3>
       <div align="center">
         <a href="https://github.com/DivyamTalwar/NextGen-Trader" target="_blank">
-          <img src="https://socialify.git.ci/DivyamTalwar/NextGen-Trader/image?theme=Dark&font=Inter&pattern=Plus" alt="NextGen-Trader Banner"/>
+          <img src="https://github.com/DivyamTalwar/NextGen-Trader/blob/main/src/Image.png?raw=true" alt="NextGen-Trader Banner"/>
         </a>
         <p>
           <br>
@@ -52,7 +52,7 @@ and powerful reflection of your expertise. My apologies for the earlier omission
       <h3 align="center">RecruitX: Intelligent Hiring Platform</h3>
       <div align="center">
         <a href="https://github.com/DivyamTalwar/RecruitX" target="_blank">
-          <img src="https://socialify.git.ci/DivyamTalwar/RecruitX/image?theme=Light&font=Inter&pattern=Solid" alt="RecruitX Banner"/>
+          <img src="https://github.com/DivyamTalwar/RecruitX/blob/main/Images/Logo.png?raw=true" alt="RecruitX Banner"/>
         </a>
         <p>
           <br>
