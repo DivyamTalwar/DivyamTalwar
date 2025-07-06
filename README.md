@@ -1,5 +1,14 @@
 # 💫 About Me:
-👋 Founding AI Engineer building autonomous agents that reason, plan, and execute complex tasks.<br>About Me: I architect and build production-grade, multi-agent AI systems from the ground up. My expertise lies in creating stateful, fault-tolerant reasoning engines using LangGraph and orchestrating them to solve real-world problems in FinTech and HR-Tech. I handle the full stack, from the agent's core logic to high-performance FastAPI backends.<br>🚀 I'm currently working on: Architecting multi-tool AI agents for autonomous financial analysis and building an intelligent talent platform to automate the entire hiring lifecycle. In my spare time, I'm engineering an autonomous hedge fund engine (NextGenTrader).<br>🤝 I'm looking to collaborate on: Open-source projects involving complex agentic workflows, LLM-powered financial modeling, or novel applications of LangGraph and Explainable AI (XAI).<br>🧠 I'm currently learning: Advanced model fine-tuning techniques (PEFT, QLoRa) for specialized agentic tasks and best practices for MLOps in deploying large-scale LLM applications.<br>💬 Ask me about: Architecting stateful AI agents with LangGraph, building production-ready RAG systems, creating high-performance LLM backends with FastAPI, and implementing Explainable AI (XAI) layers.<br>🎉 Fun fact: I once led a team of 60+ to organize my university's E-Summit, helping 12+ student startups raise over INR 5 Crore (~$600k) in funding.
+👋 Founding AI Engineer building autonomous agents that reason, plan, and execute complex tasks.<br>About Me: I architect and build production-grade, multi-agent AI systems from the ground up. My expertise lies in creating stateful, fault-tolerant reasoning engines using LangGraph and orchestrating them to solve real-world problems in FinTech and HR-Tech. I handle the full stack, from the agent's core logic to high-performance FastAPI backends.<br>
+<br>
+🚀 I'm currently working on: Architecting multi-tool AI agents for autonomous financial analysis and building an intelligent talent platform to automate the entire hiring lifecycle. In my spare time, I'm engineering an autonomous hedge fund engine (NextGenTrader).<br>
+<br>
+🤝 I'm looking to collaborate on: Open-source projects involving complex agentic workflows, LLM-powered financial modeling, or novel applications of LangGraph and Explainable AI (XAI).<br>
+<br>
+🧠 I'm currently learning: Advanced model fine-tuning techniques (PEFT, QLoRa) for specialized agentic tasks and best practices for MLOps in deploying large-scale LLM applications.<br>
+<br>
+💬 Ask me about: Architecting stateful AI agents with LangGraph, building production-ready RAG systems, creating high-performance LLM backends with FastAPI, and implementing Explainable AI (XAI) layers.<br>
+<br>🎉 Fun fact: I once led a team of 60+ to organize my university's E-Summit, helping 12+ student startups raise over INR 5 Crore (~$600k) in funding.
 
 
 ## 🌐 Socials:
