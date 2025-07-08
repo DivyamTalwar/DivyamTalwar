@@ -73,9 +73,13 @@ and powerful reflection of your expertise. My apologies for the earlier omission
 
 ### 🎯 Core Focus
 *   🚀 **Currently Building:** I'm architecting multi-tool **autonomous financial agents** and an **intelligent talent platform** designed to revolutionize the hiring process for enterprise clients.<br>
+
 *   🤝 **Open to Collaboration On:** Complex **agentic workflows**, LLM-powered **financial modeling**, or novel applications of **LangGraph** and **Explainable AI (XAI)**. If you're pushing boundaries, let's connect.<br>
+
 *   🧠 **Sharpening My Skills In:** **Advanced fine-tuning** (`PEFT`, `QLoRa`) for specialized agentic tasks and **MLOps best practices** (`MLflow`, `BentoML`) for deploying robust, large-scale LLM applications.<br>
+
 *   💬 **Let's Talk About:** Architecting stateful AI agents with `LangGraph`, building production-ready **RAG systems** with `LangChain`, creating high-performance LLM backends with `FastAPI`, and implementing **Explainable AI (XAI)** layers.<br>
+
 *   🎉 **Fun Fact:** I once led a 60+ person team to organize my university's E-Summit, directly helping 12+ student startups secure over **$600k (₹5 Crore)** in funding.<br>
 
 ---
