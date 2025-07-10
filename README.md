@@ -34,7 +34,7 @@ and powerful reflection of your expertise. My apologies for the earlier omission
       <h3 align="center">NextGen-Trader: Autonomous AI Hedge Fund</h3>
       <div align="center">
         <a href="https://github.com/DivyamTalwar/NextGen-Trader" target="_blank">
-          <img src="https://github.com/DivyamTalwar/NextGen-Trader/blob/main/src/Image.png?raw=true" alt="NextGen-Trader Banner"/>
+          <img src="https://github.com/DivyamTalwar/NextGen-Trader/blob/main/SourceCode/Image.png?raw=true" alt="NextGen-Trader Banner"/>
         </a>
         <p>
           <br>
