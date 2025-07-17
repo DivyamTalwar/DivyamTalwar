@@ -1,20 +1,10 @@
-<!-- 
-Hey Divyam! Here is the fully corrected version. I've cross-referenced every skill
-from your resume to ensure nothing was missed. The tech stack is now a complete
-and powerful reflection of your expertise. My apologies for the earlier omission!
--->
-
 <div align="center">
-  <h1 style="display: inline-block; font-weight: bold;">Hi there, I'm Divyam Talwar 👋</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00BFFF¢er=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Divyam+Talwar+%F0%9F%91%8B;Founding+AI+Engineer;Architecting+the+Future+of+Autonomous+Systems" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
   <p>
-    <strong>Founding AI Engineer | Architecting the Future of Autonomous Systems</strong>
-  </p>
-  
-  <p>
-    I architect and build <strong>production-grade, multi-agent AI systems</strong> from scratch. My core expertise is in engineering <strong>stateful, fault-tolerant reasoning engines</strong> (99.5% uptime) using <code>LangGraph</code> and orchestrating them to tackle real-world challenges in <strong>FinTech</strong> and <strong>HR-Tech</strong>. From the agent's core logic to high-performance <code>FastAPI</code> backends handling <em>hundreds of concurrent requests with sub-200ms latency</em>, I own the full stack.
+    I architect and build <strong>production-grade, multi-agent AI systems</strong> from the ground up. My expertise lies in engineering <strong>stateful, fault-tolerant reasoning engines</strong> (99.5% uptime) using <code>LangGraph</code>, and orchestrating them to solve complex challenges in <strong>FinTech</strong> and <strong>HR-Tech</strong>. From the agent's core logic to high-performance <code>FastAPI</code> backends handling <em>hundreds of concurrent requests with sub-200ms latency</em>, I own the entire stack.
   </p>
 </div>
 
@@ -28,6 +18,7 @@ and powerful reflection of your expertise. My apologies for the earlier omission
 ---
 
 ### 🚀 Featured Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -72,15 +63,26 @@ and powerful reflection of your expertise. My apologies for the earlier omission
 ---
 
 ### 🎯 Core Focus
-*   🚀 **Currently Building:** I'm architecting multi-tool **autonomous financial agents** and an **intelligent talent platform** designed to revolutionize the hiring process for enterprise clients.<br>
-
-*   🤝 **Open to Collaboration On:** Complex **agentic workflows**, LLM-powered **financial modeling**, or novel applications of **LangGraph** and **Explainable AI (XAI)**. If you're pushing boundaries, let's connect.<br>
-
-*   🧠 **Sharpening My Skills In:** **Advanced fine-tuning** (`PEFT`, `QLoRa`) for specialized agentic tasks and **MLOps best practices** (`MLflow`, `BentoML`) for deploying robust, large-scale LLM applications.<br>
-
-*   💬 **Let's Talk About:** Architecting stateful AI agents with `LangGraph`, building production-ready **RAG systems** with `LangChain`, creating high-performance LLM backends with `FastAPI`, and implementing **Explainable AI (XAI)** layers.<br>
-
-*   🎉 **Fun Fact:** I once led a 60+ person team to organize my university's E-Summit, directly helping 12+ student startups secure over **$600k (₹5 Crore)** in funding.<br>
+<details>
+  <summary><strong>🚀 Currently Building</strong></summary>
+  <p>I'm architecting multi-tool <strong>autonomous financial agents</strong> and an <strong>intelligent talent platform</strong> designed to revolutionize the hiring process for enterprise clients.</p>
+</details>
+<details>
+  <summary><strong>🤝 Open to Collaboration On</strong></summary>
+  <p>Complex <strong>agentic workflows</strong>, LLM-powered <strong>financial modeling</strong>, or novel applications of <strong>LangGraph</strong> and <strong>Explainable AI (XAI)</strong>. If you're pushing boundaries, let's connect.</p>
+</details>
+<details>
+  <summary><strong>🧠 Sharpening My Skills In</strong></summary>
+  <p><strong>Advanced fine-tuning</strong> (<code>PEFT</code>, <code>QLoRa</code>) for specialized agentic tasks and <strong>MLOps best practices</strong> (<code>MLflow</code>, <code>BentoML</code>) for deploying robust, large-scale LLM applications.</p>
+</details>
+<details>
+  <summary><strong>💬 Let's Talk About</strong></summary>
+  <p>Architecting stateful AI agents with <code>LangGraph</code>, building production-ready <strong>RAG systems</strong> with <code>LangChain</code>, creating high-performance LLM backends with <code>FastAPI</code>, and implementing <strong>Explainable AI (XAI)</strong> layers.</p>
+</details>
+<details>
+  <summary><strong>🎉 Fun Fact</strong></summary>
+  <p>I once led a 60+ person team to organize my university's E-Summit, directly helping 12+ student startups secure over <strong>$600k (₹5 Crore)</strong> in funding.</p>
+</details>
 
 ---
 
@@ -150,7 +152,7 @@ and powerful reflection of your expertise. My apologies for the earlier omission
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
         <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-        <img src="https://img.shields.io/badge/CI/CD-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+        <img src="https.shields.io/badge/CI/CD-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
         <img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
         <img src="https://img.shields.io/badge/BentoML-000000.svg?style=for-the-badge&logo=bentoml&logoColor=white" alt="BentoML"/>
       </div>
