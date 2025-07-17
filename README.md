@@ -1,10 +1,14 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00BFFF¢er=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Divyam+Talwar+%F0%9F%91%8B;Founding+AI+Engineer;Architecting+the+Future+of+Autonomous+Systems" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=300§ion=header&text=Divyam%20Talwar&fontSize=90" />
+</div>
+
+<div align="center">
+  <h1 style="display: inline-block; font-weight: bold;">Founding AI Engineer | Architecting the Future of Autonomous Systems</h1>
 </div>
 
 <div align="center">
   <p>
-    I architect and build <strong>production-grade, multi-agent AI systems</strong> from the ground up. My expertise lies in engineering <strong>stateful, fault-tolerant reasoning engines</strong> (99.5% uptime) using <code>LangGraph</code>, and orchestrating them to solve complex challenges in <strong>FinTech</strong> and <strong>HR-Tech</strong>. From the agent's core logic to high-performance <code>FastAPI</code> backends handling <em>hundreds of concurrent requests with sub-200ms latency</em>, I own the entire stack.
+    I build production-grade, multi-agent AI systems from scratch. My expertise is in engineering <strong>stateful, fault-tolerant reasoning engines</strong> (99.5% uptime) with <code>LangGraph</code>, and orchestrating them to tackle real-world challenges in <strong>FinTech</strong> and <strong>HR-Tech</strong>. I own the full stack, from the agent's core logic to high-performance <code>FastAPI</code> backends that handle <em>hundreds of concurrent requests with sub-200ms latency</em>.
   </p>
 </div>
 
@@ -90,15 +94,15 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33.33%">
       <div align="center">
-        <strong>Languages & Core Programming</strong><br><br>
+        <strong>Languages & Core</strong><br><br>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
         <img src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
       </div>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33.33%">
       <div align="center">
         <strong>Backend & Frameworks</strong><br><br>
         <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
@@ -106,9 +110,19 @@
         <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
       </div>
     </td>
+    <td valign="top" width="33.33%">
+        <div align="center">
+            <strong>Agentic AI & LLM Orchestration</strong><br><br>
+            <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
+            <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge" alt="LangGraph"/>
+            <img src="https://img.shields.io/badge/CrewAI-blueviolet?style=for-the-badge" alt="CrewAI"/>
+            <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge" alt="RAG"/>
+            <img src="https://img.shields.io/badge/LangSmith-black?style=for-the-badge" alt="LangSmith"/>
+        </div>
+    </td>
   </tr>
   <tr>
-    <td valign="top" colspan="2">
+    <td valign="top" colspan="3">
       <div align="center">
         <strong>AI / ML Engineering</strong><br><br>
         <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
@@ -117,27 +131,12 @@
         <img src="https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Transformers"/>
         <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
         <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-        <img src="https://img.shields.io/badge/NLP-blue.svg?style=for-the-badge" alt="NLP"/>
         <img src="https://img.shields.io/badge/PEFT%20(LoRa/QLoRa)-orange.svg?style=for-the-badge" alt="PEFT"/>
       </div>
     </td>
   </tr>
   <tr>
-    <td valign="top" colspan="2">
-        <div align="center">
-            <strong>Agentic AI & LLM Orchestration</strong><br><br>
-            <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
-            <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge" alt="LangGraph"/>
-            <img src="https://img.shields.io/badge/CrewAI-blueviolet?style=for-the-badge" alt="CrewAI"/>
-            <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge" alt="RAG"/>
-            <img src="https://img.shields.io/badge/LangSmith-black?style=for-the-badge" alt="LangSmith"/>
-            <img src="https://img.shields.io/badge/LangServe-1E90FF?style=for-the-badge" alt="LangServe"/>
-            <img src="https://img.shields.io/badge/FastMCP-red?style=for-the-badge" alt="FastMCP"/>
-        </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%"_ colspan="2">
       <div align="center">
         <strong>Databases & Vector Stores</strong><br><br>
         <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
@@ -152,7 +151,7 @@
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
         <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-        <img src="https.shields.io/badge/CI/CD-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+        <img src="https://img.shields.io/badge/CI/CD-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
         <img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
         <img src="https://img.shields.io/badge/BentoML-000000.svg?style=for-the-badge&logo=bentoml&logoColor=white" alt="BentoML"/>
       </div>
@@ -163,21 +162,27 @@
 ---
 
 ### 📊 My GitHub Story
+
 <p align="center">
-  <a href="https://github.com/DivyamTalwar">
-    <img src="https://github-readme-stats.vercel.app/api?username=DivyamTalwar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000" alt="Divyam's GitHub Stats"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=DivyamTalwar&theme=merko&hide_border=false&background=00000000&border=00000000" alt="Divyam's GitHub Streak"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamTalwar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&border_color=00000000" alt="Divyam's Top Languages"/>
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=DivyamTalwar&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="Divyam's GitHub Trophies"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=DivyamTalwar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyamTalwar&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamTalwar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&border_color=00000000" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DivyamTalwar&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DivyamTalwar/DivyamTalwar/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
 
 <div align="center">
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
