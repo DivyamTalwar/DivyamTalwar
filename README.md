@@ -1,12 +1,18 @@
+<!-- 
+Hey Divyam! Here is the fully corrected version. I've cross-referenced every skill
+from your resume to ensure nothing was missed. The tech stack is now a complete
+and powerful reflection of your expertise. My apologies for the earlier omission!
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00BFFF&height=250§ion=header&text=Divyam%20Talwar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner"/>
+  <h1 style="display: inline-block; font-weight: bold;">Hi there, I'm Divyam Talwar 👋</h1>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00BFFF¢er=true&vCenter=true&width=800&lines=Founding+AI+Engineer;Architecting+Production-Grade+Multi-Agent+Systems;Building+the+Future+of+FinTech+%26+HR-Tech" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
+  <p>
+    <strong>Founding AI Engineer | Architecting the Future of Autonomous Systems</strong>
+  </p>
+  
   <p>
     I architect and build <strong>production-grade, multi-agent AI systems</strong> from scratch. My core expertise is in engineering <strong>stateful, fault-tolerant reasoning engines</strong> (99.5% uptime) using <code>LangGraph</code> and orchestrating them to tackle real-world challenges in <strong>FinTech</strong> and <strong>HR-Tech</strong>. From the agent's core logic to high-performance <code>FastAPI</code> backends handling <em>hundreds of concurrent requests with sub-200ms latency</em>, I own the full stack.
   </p>
@@ -22,7 +28,6 @@
 ---
 
 ### 🚀 Featured Projects
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -67,26 +72,15 @@
 ---
 
 ### 🎯 Core Focus
-<details>
-  <summary><strong>🚀 Currently Building</strong></summary>
-  <p>I'm architecting multi-tool <strong>autonomous financial agents</strong> and an <strong>intelligent talent platform</strong> designed to revolutionize the hiring process for enterprise clients.</p>
-</details>
-<details>
-  <summary><strong>🤝 Open to Collaboration On</strong></summary>
-  <p>Complex <strong>agentic workflows</strong>, LLM-powered <strong>financial modeling</strong>, or novel applications of <strong>LangGraph</strong> and <strong>Explainable AI (XAI)</strong>. If you're pushing boundaries, let's connect.</p>
-</details>
-<details>
-  <summary><strong>🧠 Sharpening My Skills In</strong></summary>
-  <p><strong>Advanced fine-tuning</strong> (<code>PEFT</code>, <code>QLoRa</code>) for specialized agentic tasks and <strong>MLOps best practices</strong> (<code>MLflow</code>, <code>BentoML</code>) for deploying robust, large-scale LLM applications.</p>
-</details>
-<details>
-  <summary><strong>💬 Let's Talk About</strong></summary>
-  <p>Architecting stateful AI agents with <code>LangGraph</code>, building production-ready <strong>RAG systems</strong> with <code>LangChain</code>, creating high-performance LLM backends with <code>FastAPI</code>, and implementing <strong>Explainable AI (XAI)</strong> layers.</p>
-</details>
-<details>
-  <summary><strong>🎉 Fun Fact</strong></summary>
-  <p>I once led a 60+ person team to organize my university's E-Summit, directly helping 12+ student startups secure over <strong>$600k (₹5 Crore)</strong> in funding.</p>
-</details>
+*   🚀 **Currently Building:** I'm architecting multi-tool **autonomous financial agents** and an **intelligent talent platform** designed to revolutionize the hiring process for enterprise clients.<br>
+
+*   🤝 **Open to Collaboration On:** Complex **agentic workflows**, LLM-powered **financial modeling**, or novel applications of **LangGraph** and **Explainable AI (XAI)**. If you're pushing boundaries, let's connect.<br>
+
+*   🧠 **Sharpening My Skills In:** **Advanced fine-tuning** (`PEFT`, `QLoRa`) for specialized agentic tasks and **MLOps best practices** (`MLflow`, `BentoML`) for deploying robust, large-scale LLM applications.<br>
+
+*   💬 **Let's Talk About:** Architecting stateful AI agents with `LangGraph`, building production-ready **RAG systems** with `LangChain`, creating high-performance LLM backends with `FastAPI`, and implementing **Explainable AI (XAI)** layers.<br>
+
+*   🎉 **Fun Fact:** I once led a 60+ person team to organize my university's E-Summit, directly helping 12+ student startups secure over **$600k (₹5 Crore)** in funding.<br>
 
 ---
 
@@ -121,6 +115,7 @@
         <img src="https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Transformers"/>
         <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
         <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+        <img src="https://img.shields.io/badge/NLP-blue.svg?style=for-the-badge" alt="NLP"/>
         <img src="https://img.shields.io/badge/PEFT%20(LoRa/QLoRa)-orange.svg?style=for-the-badge" alt="PEFT"/>
       </div>
     </td>
@@ -134,6 +129,8 @@
             <img src="https://img.shields.io/badge/CrewAI-blueviolet?style=for-the-badge" alt="CrewAI"/>
             <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge" alt="RAG"/>
             <img src="https://img.shields.io/badge/LangSmith-black?style=for-the-badge" alt="LangSmith"/>
+            <img src="https://img.shields.io/badge/LangServe-1E90FF?style=for-the-badge" alt="LangServe"/>
+            <img src="https://img.shields.io/badge/FastMCP-red?style=for-the-badge" alt="FastMCP"/>
         </div>
     </td>
   </tr>
@@ -164,26 +161,21 @@
 ---
 
 ### 📊 My GitHub Story
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyamTalwar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000&show_icons=true&icon_color=00BFFF" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyamTalwar&theme=merko&hide_border=true&background=00000000" />
+  <a href="https://github.com/DivyamTalwar">
+    <img src="https://github-readme-stats.vercel.app/api?username=DivyamTalwar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000" alt="Divyam's GitHub Stats"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=DivyamTalwar&theme=merko&hide_border=false&background=00000000&border=00000000" alt="Divyam's GitHub Streak"/>
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamTalwar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&border_color=00000000" alt="Divyam's Top Languages"/>
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=DivyamTalwar&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="Divyam's GitHub Trophies"/>
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyamTalwar&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
 
 <div align="center">
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 </div>
 
@@ -193,3 +185,4 @@
     <img src="https://visitcount.itsvg.in/api?id=DivyamTalwar&icon=0&color=0" />
   </a>
 </p>
+
