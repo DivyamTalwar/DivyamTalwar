@@ -1,188 +1,350 @@
-<!-- 
-Hey Divyam! Here is the fully corrected version. I've cross-referenced every skill
-from your resume to ensure nothing was missed. The tech stack is now a complete
-and powerful reflection of your expertise. My apologies for the earlier omission!
--->
+# 🚀 **DIVYAM TALWAR** 
+### *Architecting Intelligence at the Speed of Thought*
 
 <div align="center">
-  <h1 style="display: inline-block; font-weight: bold;">Hi there, I'm Divyam Talwar 👋</h1>
-</div>
-
-<div align="center">
-  <p>
-    <strong>Founding AI Engineer | Architecting the Future of Autonomous Systems</strong>
-  </p>
   
-  <p>
-    I architect and build <strong>production-grade, multi-agent AI systems</strong> from scratch. My core expertise is in engineering <strong>stateful, fault-tolerant reasoning engines</strong> (99.5% uptime) using <code>LangGraph</code> and orchestrating them to tackle real-world challenges in <strong>FinTech</strong> and <strong>HR-Tech</strong>. From the agent's core logic to high-performance <code>FastAPI</code> backends handling <em>hundreds of concurrent requests with sub-200ms latency</em>, I own the full stack.
-  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Founding+AI+Engineer+%7C+Multi-Agent+Systems+Architect;Building+the+Future+of+Autonomous+Intelligence)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DivyamTalwar&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=star" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DivyamTalwar?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-brightgreen?style=for-the-badge&logo=openai" alt="Focus" />
+</p>
+
+```python
+class DivyamTalwar:
+    def __init__(self):
+        self.title = "Founding AI Engineer"
+        self.location = "Building the Future 🌍"
+        self.current_focus = ["Multi-Agent Systems", "Autonomous Trading", "LangGraph Architecture"]
+        self.achievements = {
+            "systems_uptime": "99.5%",
+            "latency": "<200ms",
+            "funding_helped_raise": "$600K+",
+            "roi_improvement": "15%"
+        }
+    
+    def say_hi(self):
+        return "Ready to architect the impossible? Let's build! 🚀"
+```
+
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/divyam-talwar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/DivyamTalwar" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:divyamtalwar.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://discord.gg/theDream4756" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-</p>
+---
+
+<div align="center">
+  
+## 🎯 **CONNECT WITH ME**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/divyam-talwar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/DivyamTalwar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:divyamtalwar.ai@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/theDream4756)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010)](https://github.com/DivyamTalwar)
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## 🏆 **FLAGSHIP PROJECTS**
+
+<div align="center">
+  
+### ⚡ Where Innovation Meets Implementation
+
+</div>
+
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">NextGen-Trader: Autonomous AI Hedge Fund</h3>
-      <div align="center">
-        <a href="https://github.com/DivyamTalwar/NextGen-Trader" target="_blank">
-          <img src="https://github.com/DivyamTalwar/NextGen-Trader/blob/main/SourceCode/Image.png?raw=true" alt="NextGen-Trader Banner"/>
-        </a>
-        <p>
-          <br>
-          An elite <strong>15-agent ensemble</strong> where each AI embodies a unique financial titan’s philosophy. It uses a hybrid intelligence core to execute quant models and LLM reasoning, achieving a <strong>15% higher risk-adjusted return</strong> in backtesting and reducing analysis time from hours to <strong>under 5 minutes</strong>.
-        </p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=data:image/svg+xml;base64,"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-        </div>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">RecruitX: Intelligent Hiring Platform</h3>
-      <div align="center">
-        <a href="https://github.com/DivyamTalwar/RecruitX" target="_blank">
-          <img src="https://github.com/DivyamTalwar/RecruitX/blob/main/Images/Logo.png?raw=true" alt="RecruitX Banner"/>
-        </a>
-        <p>
-          <br>
-          An AI-powered platform with a proprietary <strong>Explainable AI (XAI)</strong> scoring system that improves candidate match quality by <strong>50%</strong>. Features a per-candidate **RAG** system with a 'Chat with Resume' function, slashing recruiter screening time by **60%**.
-        </p>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-          <img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge&logo=facebook&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎯 Core Focus
-*   🚀 **Currently Building:** I'm architecting multi-tool **autonomous financial agents** and an **intelligent talent platform** designed to revolutionize the hiring process for enterprise clients.<br>
-
-*   🤝 **Open to Collaboration On:** Complex **agentic workflows**, LLM-powered **financial modeling**, or novel applications of **LangGraph** and **Explainable AI (XAI)**. If you're pushing boundaries, let's connect.<br>
-
-*   🧠 **Sharpening My Skills In:** **Advanced fine-tuning** (`PEFT`, `QLoRa`) for specialized agentic tasks and **MLOps best practices** (`MLflow`, `BentoML`) for deploying robust, large-scale LLM applications.<br>
-
-*   💬 **Let's Talk About:** Architecting stateful AI agents with `LangGraph`, building production-ready **RAG systems** with `LangChain`, creating high-performance LLM backends with `FastAPI`, and implementing **Explainable AI (XAI)** layers.<br>
-
-*   🎉 **Fun Fact:** I once led a 60+ person team to organize my university's E-Summit, directly helping 12+ student startups secure over **$600k (₹5 Crore)** in funding.<br>
-
----
-
-### 💻 My Tech Arsenal
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <strong>Languages & Core Programming</strong><br><br>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-        <img src="https://img.shields.io/badge/SQL-025E8C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <strong>Backend & Frameworks</strong><br><br>
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-        <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-        <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2">
-      <div align="center">
-        <strong>AI / ML Engineering</strong><br><br>
-        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-        <img src="https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Transformers"/>
-        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-        <img src="https://img.shields.io/badge/NLP-blue.svg?style=for-the-badge" alt="NLP"/>
-        <img src="https://img.shields.io/badge/PEFT%20(LoRa/QLoRa)-orange.svg?style=for-the-badge" alt="PEFT"/>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2">
-        <div align="center">
-            <strong>Agentic AI & LLM Orchestration</strong><br><br>
-            <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangChain"/>
-            <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge" alt="LangGraph"/>
-            <img src="https://img.shields.io/badge/CrewAI-blueviolet?style=for-the-badge" alt="CrewAI"/>
-            <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge" alt="RAG"/>
-            <img src="https://img.shields.io/badge/LangSmith-black?style=for-the-badge" alt="LangSmith"/>
-            <img src="https://img.shields.io/badge/LangServe-1E90FF?style=for-the-badge" alt="LangServe"/>
-            <img src="https://img.shields.io/badge/FastMCP-red?style=for-the-badge" alt="FastMCP"/>
-        </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <div align="center">
-        <strong>Databases & Vector Stores</strong><br><br>
-        <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-        <img src="https://img.shields.io/badge/Pinecone-0B5CD3.svg?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
-        <img src="https://img.shields.io/badge/FAISS-4A90E2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="FAISS"/>
-        <img src="https://img.shields.io/badge/ChromaDB-5A43C2.svg?style=for-the-badge" alt="ChromaDB"/>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <div align="center">
-        <strong>Cloud & MLOps</strong><br><br>
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-        <img src="https://img.shields.io/badge/CI/CD-2671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-        <img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
-        <img src="https://img.shields.io/badge/BentoML-000000.svg?style=for-the-badge&logo=bentoml&logoColor=white" alt="BentoML"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 My GitHub Story
-<p align="center">
-  <a href="https://github.com/DivyamTalwar">
-    <img src="https://github-readme-stats.vercel.app/api?username=DivyamTalwar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000" alt="Divyam's GitHub Stats"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=DivyamTalwar&theme=merko&hide_border=false&background=00000000&border=00000000" alt="Divyam's GitHub Streak"/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamTalwar&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&border_color=00000000" alt="Divyam's Top Languages"/>
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=DivyamTalwar&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="Divyam's GitHub Trophies"/>
-  </a>
-</p>
+<tr>
+<td width="50%">
 
 <div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+### 🤖 **NextGen-Trader**
+*Autonomous AI Hedge Fund*
+
+<a href="https://github.com/DivyamTalwar/NextGen-Trader">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyamTalwar&repo=NextGen-Trader&theme=radical&hide_border=true&border_radius=15" />
+</a>
+
+**🔥 15-Agent Ensemble System**
+
+```diff
++ 15% Higher Risk-Adjusted Returns
++ Analysis Time: Hours → 5 Minutes
++ Hybrid Intelligence Core
++ Production-Ready Architecture
+```
+
+<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+
+### 💼 **RecruitX**
+*Intelligent Hiring Platform*
+
+<a href="https://github.com/DivyamTalwar/RecruitX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DivyamTalwar&repo=RecruitX&theme=radical&hide_border=true&border_radius=15" />
+</a>
+
+**🎯 Explainable AI Scoring System**
+
+```diff
++ 50% Better Candidate Matching
++ 60% Reduced Screening Time
++ Chat-with-Resume Feature
++ Enterprise-Grade RAG System
+```
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-4A90E2?style=flat-square&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💫 **CORE EXPERTISE**
+
+<div align="center">
+
+### 🧠 **What I Bring to the Table**
+
+</div>
+
+<details>
+<summary><b>🤖 Agentic AI & LLM Orchestration</b></summary>
+
+```yaml
+Specializations:
+  - Multi-Agent Systems: LangGraph, CrewAI, Custom Orchestration
+  - RAG Architectures: Production-grade retrieval systems
+  - Stateful Reasoning: Fault-tolerant, persistent agent memory
+  - Tool Integration: 50+ API integrations per system
+  - Observability: LangSmith, Custom monitoring dashboards
+```
+
+</details>
+
+<details>
+<summary><b>⚡ Backend & API Development</b></summary>
+
+```yaml
+Capabilities:
+  - FastAPI: Sub-200ms latency at scale
+  - Async Architecture: 100s of concurrent requests
+  - WebSocket: Real-time agent communication
+  - Redis Caching: Optimized state management
+  - Load Balancing: 99.5% uptime guarantee
+```
+
+</details>
+
+<details>
+<summary><b>🔬 ML Engineering & Fine-Tuning</b></summary>
+
+```yaml
+Experience:
+  - Model Optimization: PEFT, LoRA, QLoRA
+  - Custom Training: Domain-specific LLM adaptation
+  - Deployment: BentoML, MLflow, Docker/K8s
+  - Vector DBs: Pinecone, FAISS, ChromaDB
+  - Monitoring: Real-time performance tracking
+```
+
+</details>
+
+---
+
+## 🛠️ **TECHNOLOGY ARSENAL**
+
+<div align="center">
+
+### ⚔️ **Battle-Tested Tech Stack**
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" />
+<br>PyTorch
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" />
+<br>TensorFlow
+</td>
+</tr>
+</table>
+
+### 🚀 **Framework Mastery**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C1E26?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=for-the-badge&logo=robot&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 💾 **Data & Infrastructure**
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0B5CD3?style=for-the-badge&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4A90E2?style=for-the-badge&logo=facebook&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A43C2?style=for-the-badge)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![BentoML](https://img.shields.io/badge/BentoML-000000?style=for-the-badge)
 
 </div>
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=DivyamTalwar&icon=0&color=0" />
-  </a>
-</p>
 
+## 📊 **GITHUB ANALYTICS**
+
+<div align="center">
+
+### 🎯 **Performance Metrics**
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DivyamTalwar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamTalwar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" />
+
+### 🏆 **Achievement Showcase**
+
+<img src="https://github-profile-trophy.vercel.app/?username=DivyamTalwar&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" />
+
+### 📈 **Contribution Graph**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DivyamTalwar&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF)
+
+</div>
+
+---
+
+## 🎯 **CURRENT INITIATIVES**
+
+<div align="center">
+
+### 🔮 **What's Brewing in My Lab**
+
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+#### 🧠 **Autonomous Trading System**
+```python
+status = "In Production"
+agents = 15
+roi_improvement = "15%"
+tech = ["LangGraph", "PyTorch", "FastAPI"]
+```
+
+</td>
+<td width="33%">
+
+#### 🎯 **Enterprise RAG Platform**
+```python
+status = "Scaling"
+users = "1000+"
+accuracy = "95%"
+stack = ["LangChain", "Pinecone", "Redis"]
+```
+
+</td>
+<td width="33%">
+
+#### 🚀 **AI Talent Matcher**
+```python
+status = "Beta Testing"
+matching_improvement = "50%"
+time_saved = "60%"
+core = ["XAI", "FAISS", "MongoDB"]
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💬 **LET'S COLLABORATE**
+
+<div align="center">
+
+### 🤝 **Open for Revolutionary Projects**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=Complex+Agentic+Workflows;Financial+AI+Systems;Production+LLM+Deployments;Explainable+AI+Solutions" alt="Typing SVG" />
+
+### 📬 **Reach Out**
+
+```javascript
+const collaboration = {
+    email: "divyamtalwar.ai@gmail.com",
+    linkedin: "linkedin.com/in/divyam-talwar",
+    discord: "theDream4756",
+    interests: ["Multi-Agent Systems", "Financial AI", "Production LLMs"],
+    availability: "Open for exciting opportunities"
+};
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 **Philosophy**
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+### 🌟 **Fun Fact**
+
+> *Led a 60+ person team to organize university E-Summit, helping 12+ startups secure $600K+ in funding*
+
+<br>
+
+**⚡ Building the future, one agent at a time ⚡**
+
+</div>
+
+---
+
+<div align="center">
+  
+*Last Updated: Always evolving, just like my code* 🚀
+
+</div>
