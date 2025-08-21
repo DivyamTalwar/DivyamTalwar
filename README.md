@@ -25,87 +25,38 @@
 
 <div align="center">
   
-## 🎯 **DIGITAL IDENTITY MATRIX**
+## 🎨 **WHO AM I?**
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td width="50%">
+<td>
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-### 🧬 **CORE ATTRIBUTES**
-
-<img src="https://img.shields.io/badge/Role-Founding%20AI%20Engineer-FF6B6B?style=flat-square&labelColor=000000&logo=openai" />
-<img src="https://img.shields.io/badge/Focus-Multi--Agent%20Systems-00C7B7?style=flat-square&labelColor=000000&logo=robot" />
-<img src="https://img.shields.io/badge/Specialty-LangGraph%20Architecture-FFD93D?style=flat-square&labelColor=000000&logo=graphql" />
-<img src="https://img.shields.io/badge/Mission-Building%20AGI-8B5CF6?style=flat-square&labelColor=000000&logo=rocket" />
-
-### 📊 **PERFORMANCE METRICS**
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| **🔥 System Uptime** | `99.5%` |
-| **⚡ API Latency** | `<200ms` |
-| **💰 Funding Raised** | `$600K+` |
-| **📈 ROI Improvement** | `15%` |
-| **👥 Team Led** | `60+` |
-| **🚀 Agents Deployed** | `15+` |
-
-</div>
-
-</td>
-<td width="50%">
-
-### 🎮 **COMMAND CENTER**
-
-```javascript
-const DivyamTalwar = {
-    🧠: {
-        title: "Founding AI Engineer",
-        location: "Building the Future 🌍",
-        email: "divyamtalwar.ai@gmail.com"
-    },
-    
-    🎯: {
-        current: [
-            "Multi-Agent Trading Systems",
-            "Autonomous Financial Modeling",
-            "Production LangGraph Architectures"
-        ]
-    },
-    
-    💪: {
-        achievements: {
-            systems_uptime: "99.5%",
-            latency: "<200ms",
-            funding_helped: "$600K+",
-            roi_boost: "15%"
-        }
-    },
-    
-    🚀: () => "Let's architect the impossible!"
-};
+```mermaid
+mindmap
+  root((Divyam Talwar))
+    🧠 AI Architect
+      Multi-Agent Systems
+      LangGraph Expert
+      Production AI
+    🚀 Builder
+      15+ Agents Deployed
+      99.5% Uptime
+      <200ms Latency
+    💡 Innovator
+      $600K+ Raised
+      15% ROI Boost
+      60+ Team Led
+    🎯 Mission
+      Building AGI
+      Autonomous Systems
+      Future of AI
 ```
-
-### 🌟 **CONNECT WITH ME**
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyam-talwar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyamTalwar)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/theDream4756)
-
-</div>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -117,60 +68,80 @@ const DivyamTalwar = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 <div align="center">
   
 ### 🤖 **[NextGen-Trader](https://github.com/DivyamTalwar/NextGen-Trader)**
-*Autonomous AI Hedge Fund System*
+*Autonomous AI Hedge Fund*
+
+<a href="https://github.com/DivyamTalwar/NextGen-Trader">
+  <img src="https://github.com/DivyamTalwar/NextGen-Trader/blob/main/SourceCode/Image.png?raw=true" width="100%" alt="NextGen-Trader" />
+</a>
 
 <img src="https://img.shields.io/badge/STATUS-PRODUCTION-00FF00?style=for-the-badge&logo=statuspal&logoColor=white" />
 
-</div>
+| Metric | Impact |
+|--------|--------|
+| **Agents** | `15 AIs` |
+| **ROI** | `+15%` |
+| **Speed** | `5 min` |
 
-| Feature | Impact |
-|---------|--------|
-| **🧠 Agent Ensemble** | `15 Specialized AIs` |
-| **📈 ROI Boost** | `+15% Risk-Adjusted` |
-| **⚡ Analysis Speed** | `Hours → 5 Minutes` |
-| **🔧 Architecture** | `Hybrid Intelligence` |
-
-**Tech Stack:**
-<div align="center">
-  
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=graphql)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
 
 </div>
 
 </td>
-<td width="50%">
+<td width="33%">
 
 <div align="center">
   
 ### 💼 **[RecruitX](https://github.com/DivyamTalwar/RecruitX)**
-*AI-Powered Talent Intelligence Platform*
+*AI Talent Intelligence*
+
+<a href="https://github.com/DivyamTalwar/RecruitX">
+  <img src="https://github.com/DivyamTalwar/RecruitX/blob/main/Images/Logo.png?raw=true" width="100%" alt="RecruitX" />
+</a>
 
 <img src="https://img.shields.io/badge/STATUS-SCALING-FFD700?style=for-the-badge&logo=statuspal&logoColor=white" />
 
-</div>
+| Metric | Impact |
+|--------|--------|
+| **Match** | `+50%` |
+| **Time** | `-60%` |
+| **XAI** | `100%` |
 
-| Feature | Impact |
-|---------|--------|
-| **🎯 Match Quality** | `+50% Accuracy` |
-| **⏱️ Time Saved** | `60% Reduction` |
-| **💬 Chat Feature** | `Resume RAG System` |
-| **🔍 XAI Scoring** | `Full Explainability` |
-
-**Tech Stack:**
-<div align="center">
-  
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
 ![FAISS](https://img.shields.io/badge/FAISS-4A90E2?style=flat-square&logo=facebook)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+
+</div>
+
+</td>
+<td width="33%">
+
+<div align="center">
+  
+### 📱 **[ReceiptMatch.AI](https://github.com/DivyamTalwar/ReceiptMatch.AI)**
+*Intelligent Receipt Processing*
+
+<a href="https://github.com/DivyamTalwar/ReceiptMatch.AI">
+  <img src="https://github.com/DivyamTalwar/ReceiptMatch.AI/blob/main/Images/Logo.png?raw=true" width="100%" alt="ReceiptMatch.AI" />
+</a>
+
+<img src="https://img.shields.io/badge/STATUS-BETA-FF6B6B?style=for-the-badge&logo=statuspal&logoColor=white" />
+
+| Metric | Impact |
+|--------|--------|
+| **OCR** | `98%` |
+| **Speed** | `<3s` |
+| **Scale** | `10K+` |
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C1E26?style=flat-square&logo=langchain)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
 
 </div>
 
@@ -389,33 +360,76 @@ Scale: Enterprise-Ready
 
 ---
 
-## 💬 **LET'S BUILD THE FUTURE**
+## 💬 **LET'S BUILD THE FUTURE TOGETHER**
 
 <div align="center">
   
-### 🤝 **Open for Collaboration**
+### 🌟 **Connect & Collaborate**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Complex+Multi-Agent+Systems;Production+LLM+Deployments;Financial+AI+Architectures;Explainable+AI+Solutions" />
 
-### 📬 **Get In Touch**
+</div>
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 <td align="center">
-  
-```javascript
-{
-  "email": "divyamtalwar.ai@gmail.com",
-  "linkedin": "/in/divyam-talwar",
-  "discord": "theDream4756",
-  "interests": [
-    "Multi-Agent Systems",
-    "Financial AI",
-    "Production LLMs",
-    "Autonomous Systems"
-  ],
-  "status": "🚀 Open for opportunities"
+
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+
+### 📧 **Email**
+[divyamtalwar.ai@gmail.com](mailto:divyamtalwar.ai@gmail.com)
+
+</td>
+<td align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100">
+
+### 💼 **LinkedIn**
+[/in/divyam-talwar](https://linkedin.com/in/divyam-talwar)
+
+</td>
+<td align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+
+### 💬 **Discord**
+[theDream4756](https://discord.gg/theDream4756)
+
+</td>
+<td align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+
+### 🐙 **GitHub**
+[@DivyamTalwar](https://github.com/DivyamTalwar)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 🎯 **OPEN FOR OPPORTUNITIES**
+
+<table>
+<tr>
+<td>
+
+```python
+interests = {
+    "🤖": "Multi-Agent Systems",
+    "💰": "Financial AI & Trading",
+    "🚀": "Production LLM Deployments", 
+    "🧠": "Autonomous Intelligence",
+    "📊": "Explainable AI Systems",
+    "⚡": "High-Performance Backends"
 }
+
+availability = "🟢 ACTIVELY SEEKING NEW CHALLENGES"
 ```
 
 </td>
@@ -432,9 +446,17 @@ Scale: Enterprise-Ready
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20future%20belongs%20to%20those%20who%20build%20autonomous%20intelligence&author=Divyam%20Talwar" />
 
-### 🌟 **Achievement Highlight**
+### 🏆 **Achievement Highlight**
 
-> **Led 60+ person team → Helped startups raise $600K+ in funding**
+<table>
+<tr>
+<td align="center">
+
+**🎯 Led 60+ Person Team** | **💰 $600K+ Funding Raised** | **🚀 12+ Startups Launched**
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100">
 
