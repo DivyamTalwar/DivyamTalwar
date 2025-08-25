@@ -369,69 +369,28 @@ agent_systems = {
 
 ---
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000" height="3">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=1000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=PERFORMANCE+ANALYTICS" alt="Typing SVG">
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000" height="3">
-</h1>
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyamTalwar&theme=2077" />
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DivyamTalwar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFE5&icon_color=FFD700&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DivyamTalwar&theme=radical&hide_border=true&background=0D1117&stroke=00FFE5&ring=FFD700&fire=FF0000&currStreakLabel=00FFE5&sideLabels=00FFE5&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" />
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyamTalwar&custom_title=Contribution%20Heatmap&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFE5&line=FFD700&point=FF0000&area_color=00FFE5" width="100%">
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamTalwar&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFE5&text_color=FFFFFF&langs_count=12" width="100%" />
-</td>
-<td width="50%">
-
-```yaml
-ENGINEERING_METRICS:
-  total_commits: "5,847+"
-  daily_average: "12.3"
-  code_quality: "A+"
   
-PRODUCTION_STATS:
-  systems_live: "50+"
-  uptime: "99.5%"
-  latency: "<200ms"
-  scale: "10M+ req/day"
+  <!-- GitHub Stats Cards -->
+  <a href="https://github.com/DivyamTalwar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DivyamTalwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFE5&text_color=FFFFFF&icon_color=00FFE5&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyamTalwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFE5&text_color=FFFFFF&langs_count=8" />
+  </a>
   
-AI_DEVELOPMENT:
-  agents_deployed: "15+"
-  models_trained: "100+"
-  rag_systems: "30+"
-  roi_delivered: "+15%"
-```
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DivyamTalwar&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A&title=MultiLanguage,Commits,Followers,PullRequest,Repositories,Issues,Stars" width="100%">
+  <!-- GitHub Streak Stats -->
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyamTalwar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFE5&ring=00FFE5&fire=FFD700&currStreakLabel=00FFE5&sideLabels=FFFFFF&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=00FFE5" />
+  
+  <!-- Activity Graph -->
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=DivyamTalwar&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFE5&line=00FFE5&point=FFFFFF&area=true&area_color=00FFE5" />
+  
+  <!-- Profile Summary Card -->
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DivyamTalwar&theme=github_dark" />
+  
+  <!-- Trophies -->
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=DivyamTalwar&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" />
+  
 </div>
 
 ---
