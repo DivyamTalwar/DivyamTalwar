@@ -1,26 +1,24 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,3,6,12,20,24,30&height=300&section=header&text=DIVYAM%20TALWAR&fontSize=90&fontColor=FFFFFF&animation=scaleIn&fontAlignY=45&desc=🚀%20Architecting%20AGI%20at%20Hyperscale%20|%20Founding%20AI%20Engineer&descAlignY=65&descSize=28&stroke=00FFE5&strokeWidth=3)</div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FFE5&height=250&section=header&text=DIVYAM%20TALWAR&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Founding%20AI%20Engineer%20•%20Multi-Agent%20Systems%20Architect&descAlignY=62&descSize=22)</div>
+
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2000&pause=500&color=00FFE5&background=FFFFFF00&center=true&vCenter=true&multiline=false&random=false&width=1200&height=80&lines=Building+Multi-Agent+Systems+with+99.5%25+Uptime;Deployed+15%2B+Production+AI+Agents+at+Scale;%24600K%2B+Raised+%E2%80%A2+60%2B+Engineers+Led+%E2%80%A2+12%2B+Launches;Transforming+Industries+with+Autonomous+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=00FFE5&background=FFFFFF00&center=true&vCenter=true&multiline=false&random=false&width=1200&height=80&lines=Building+Multi-Agent+Systems+with+99.5%25+Uptime;Deployed+15%2B+Production+AI+Agents+at+Scale;%24600K%2B+Raised+%E2%80%A2+60%2B+Engineers+Led+%E2%80%A2+12%2B+Launches;Transforming+Industries+with+Autonomous+Intelligence)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
 <div align="center">
   
-  [![](https://custom-icon-badges.demolab.com/badge/PROFILE_VIEWS-15,243-FF0000?style=for-the-badge&labelColor=0D1117&logo=eye&logoColor=FF0000)](https://github.com/DivyamTalwar)
-  [![](https://custom-icon-badges.demolab.com/badge/GITHUB_STARS-2,847-FFD700?style=for-the-badge&labelColor=0D1117&logo=star-fill&logoColor=FFD700)](https://github.com/DivyamTalwar)
-  [![](https://custom-icon-badges.demolab.com/badge/REPOSITORIES-127-00D9FF?style=for-the-badge&labelColor=0D1117&logo=repo&logoColor=00D9FF)](https://github.com/DivyamTalwar?tab=repositories)
-  [![](https://custom-icon-badges.demolab.com/badge/LINKEDIN-5,000+-0077B5?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/divyam-talwar)
-  [![](https://custom-icon-badges.demolab.com/badge/HIRE_ME-Available-00FF00?style=for-the-badge&labelColor=0D1117&logo=rocket&logoColor=00FF00)](mailto:divyamtalwar.ai@gmail.com)
+  [![](https://custom-icon-badges.demolab.com/badge/PROFILE_VIEWS-15,243-FF0000?style=flat&labelColor=0D1117&logo=eye&logoColor=FF0000)](https://github.com/DivyamTalwar)
+  [![](https://custom-icon-badges.demolab.com/badge/GITHUB_STARS-2,847-FFD700?style=flat&labelColor=0D1117&logo=star-fill&logoColor=FFD700)](https://github.com/DivyamTalwar)
+  [![](https://custom-icon-badges.demolab.com/badge/REPOSITORIES-127-00D9FF?style=flat&labelColor=0D1117&logo=repo&logoColor=00D9FF)](https://github.com/DivyamTalwar?tab=repositories)
+  [![](https://custom-icon-badges.demolab.com/badge/LINKEDIN-5,000+-0077B5?style=flat&labelColor=0D1117&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/divyam-talwar)
+  [![](https://custom-icon-badges.demolab.com/badge/HIRE_ME-Available-00FF00?style=flat&labelColor=0D1117&logo=rocket&logoColor=00FF00)](mailto:divyamtalwar.ai@gmail.com)
   
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000" height="3">
@@ -133,7 +131,7 @@ flowchart TD
 <div align="center">
   
 ### **🤖 NEXTGEN-TRADER**
-[![](https://img.shields.io/badge/STATUS-PRODUCTION-00FF00?style=for-the-badge&labelColor=0D1117)](https://github.com/DivyamTalwar/NextGen-Trader)
+[![](https://img.shields.io/badge/STATUS-PRODUCTION-00FF00?style=flat&labelColor=0D1117)](https://github.com/DivyamTalwar/NextGen-Trader)
 
 <a href="https://github.com/DivyamTalwar/NextGen-Trader">
   <img src="https://raw.githubusercontent.com/DivyamTalwar/NextGen-Trader/main/SourceCode/Image.png" width="100%" style="border-radius: 15px; border: 2px solid #00FFE5; box-shadow: 0 0 30px rgba(0,255,229,0.8);">
@@ -166,7 +164,7 @@ flowchart TD
 <div align="center">
 
 ### **💼 RECRUITX-AI**
-[![](https://img.shields.io/badge/STATUS-SCALING-FFD700?style=for-the-badge&labelColor=0D1117)](https://github.com/DivyamTalwar/RecruitX)
+[![](https://img.shields.io/badge/STATUS-SCALING-FFD700?style=flat&labelColor=0D1117)](https://github.com/DivyamTalwar/RecruitX)
 
 <a href="https://github.com/DivyamTalwar/RecruitX">
   <img src="https://raw.githubusercontent.com/DivyamTalwar/RecruitX/main/Images/Logo.png" width="100%" style="border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 0 30px rgba(255,215,0,0.8);">
@@ -199,7 +197,7 @@ flowchart TD
 <div align="center">
 
 ### **📱 RECEIPTMATCH.AI**
-[![](https://img.shields.io/badge/STATUS-MVP-00D9FF?style=for-the-badge&labelColor=0D1117)](https://github.com/DivyamTalwar/ReceiptMatch.AI)
+[![](https://img.shields.io/badge/STATUS-MVP-00D9FF?style=flat&labelColor=0D1117)](https://github.com/DivyamTalwar/ReceiptMatch.AI)
 
 <a href="https://github.com/DivyamTalwar/ReceiptMatch.AI">
   <img src="https://raw.githubusercontent.com/DivyamTalwar/ReceiptMatch.AI/main/Images/Logo.png" width="100%" style="border-radius: 15px; border: 2px solid #00D9FF; box-shadow: 0 0 30px rgba(0,217,255,0.8);">
@@ -250,50 +248,50 @@ flowchart TD
 
 **🤖 Agentic AI**
 
-![LangGraph](https://img.shields.io/badge/LangGraph-Expert-FF0000?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117)
-![LangChain](https://img.shields.io/badge/LangChain-Master-00FF00?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117)
-![CrewAI](https://img.shields.io/badge/CrewAI-Advanced-FFD700?style=for-the-badge&logo=probot&logoColor=white&labelColor=0D1117)
-![AutoGen](https://img.shields.io/badge/AutoGen-Expert-00D9FF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0D1117)
+![LangGraph](https://img.shields.io/badge/LangGraph-Expert-FF0000?style=flat&logo=graphql&logoColor=white&labelColor=0D1117)
+![LangChain](https://img.shields.io/badge/LangChain-Master-00FF00?style=flat&logo=langchain&logoColor=white&labelColor=0D1117)
+![CrewAI](https://img.shields.io/badge/CrewAI-Advanced-FFD700?style=flat&logo=probot&logoColor=white&labelColor=0D1117)
+![AutoGen](https://img.shields.io/badge/AutoGen-Expert-00D9FF?style=flat&logo=microsoft&logoColor=white&labelColor=0D1117)
 
 </td>
 <td align="center" width="20%">
 
 **🎨 LLM Platforms**
 
-![GPT-4](https://img.shields.io/badge/GPT--4-Expert-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
-![Claude 3](https://img.shields.io/badge/Claude_3-Master-6B46C1?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0D1117)
-![Gemini](https://img.shields.io/badge/Gemini-Advanced-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117)
-![Llama 3](https://img.shields.io/badge/Llama_3-Expert-FF6B6B?style=for-the-badge&logo=meta&logoColor=white&labelColor=0D1117)
+![GPT-4](https://img.shields.io/badge/GPT--4-Expert-412991?style=flat&logo=openai&logoColor=white&labelColor=0D1117)
+![Claude 3](https://img.shields.io/badge/Claude_3-Master-6B46C1?style=flat&logo=anthropic&logoColor=white&labelColor=0D1117)
+![Gemini](https://img.shields.io/badge/Gemini-Advanced-4285F4?style=flat&logo=google&logoColor=white&labelColor=0D1117)
+![Llama 3](https://img.shields.io/badge/Llama_3-Expert-FF6B6B?style=flat&logo=meta&logoColor=white&labelColor=0D1117)
 
 </td>
 <td align="center" width="20%">
 
 **🧬 Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117)
-![JAX](https://img.shields.io/badge/JAX-Advanced-FF6B6B?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Master-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117)
-![XGBoost](https://img.shields.io/badge/XGBoost-Pro-FF6600?style=for-the-badge&logo=xgboost&logoColor=white&labelColor=0D1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=0D1117)
+![JAX](https://img.shields.io/badge/JAX-Advanced-FF6B6B?style=flat&logo=google&logoColor=white&labelColor=0D1117)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Master-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=0D1117)
+![XGBoost](https://img.shields.io/badge/XGBoost-Pro-FF6600?style=flat&logo=xgboost&logoColor=white&labelColor=0D1117)
 
 </td>
 <td align="center" width="20%">
 
 **💾 Vector DBs**
 
-![Pinecone](https://img.shields.io/badge/Pinecone-Expert-00BFB3?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=0D1117)
-![FAISS](https://img.shields.io/badge/FAISS-Master-4A90E2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117)
-![Chroma](https://img.shields.io/badge/Chroma-Advanced-8B5CF6?style=for-the-badge&logo=chroma&logoColor=white&labelColor=0D1117)
-![Weaviate](https://img.shields.io/badge/Weaviate-Pro-2EBCAF?style=for-the-badge&logo=weaviate&logoColor=white&labelColor=0D1117)
+![Pinecone](https://img.shields.io/badge/Pinecone-Expert-00BFB3?style=flat&logo=pinecone&logoColor=white&labelColor=0D1117)
+![FAISS](https://img.shields.io/badge/FAISS-Master-4A90E2?style=flat&logo=facebook&logoColor=white&labelColor=0D1117)
+![Chroma](https://img.shields.io/badge/Chroma-Advanced-8B5CF6?style=flat&logo=chroma&logoColor=white&labelColor=0D1117)
+![Weaviate](https://img.shields.io/badge/Weaviate-Pro-2EBCAF?style=flat&logo=weaviate&logoColor=white&labelColor=0D1117)
 
 </td>
 <td align="center" width="20%">
 
 **☁️ Infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-Master-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
-![Kubernetes](https://img.shields.io/badge/K8s-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117)
-![Terraform](https://img.shields.io/badge/Terraform-Pro-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0D1117)
+![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?style=flat&logo=amazonaws&logoColor=white&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-Master-2496ED?style=flat&logo=docker&logoColor=white&labelColor=0D1117)
+![Kubernetes](https://img.shields.io/badge/K8s-Advanced-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=0D1117)
+![Terraform](https://img.shields.io/badge/Terraform-Pro-7B42BC?style=flat&logo=terraform&logoColor=white&labelColor=0D1117)
 
 </td>
 </tr>
@@ -454,7 +452,7 @@ AI_DEVELOPMENT:
 
 ### **🤖 AGI Trading**
 
-<img src="https://img.shields.io/badge/PROGRESS-95%25-00FF00?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PROGRESS-95%25-00FF00?style=flat&labelColor=0D1117" />
 
 ```yaml
 Phase: Production
@@ -463,14 +461,14 @@ Scale: $10M+ AUM
 Agents: 15 Active
 ```
 
-[![Status](https://img.shields.io/badge/View_Project-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/DivyamTalwar/NextGen-Trader)
+[![Status](https://img.shields.io/badge/View_Project-00FF00?style=flat&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/DivyamTalwar/NextGen-Trader)
 
 </td>
 <td width="25%" align="center">
 
 ### **🧠 Enterprise RAG**
 
-<img src="https://img.shields.io/badge/PROGRESS-75%25-FFD700?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PROGRESS-75%25-FFD700?style=flat&labelColor=0D1117" />
 
 ```yaml
 Phase: Beta
@@ -479,14 +477,14 @@ Accuracy: 95%+
 Latency: <500ms
 ```
 
-[![Status](https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/DivyamTalwar)
+[![Status](https://img.shields.io/badge/View_Project-FFD700?style=flat&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/DivyamTalwar)
 
 </td>
 <td width="25%" align="center">
 
 ### **💎 AI Recruiter**
 
-<img src="https://img.shields.io/badge/PROGRESS-60%25-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PROGRESS-60%25-00D9FF?style=flat&labelColor=0D1117" />
 
 ```yaml
 Phase: Pilot
@@ -495,14 +493,14 @@ Time: -60%
 Scale: Enterprise
 ```
 
-[![Status](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/DivyamTalwar/RecruitX)
+[![Status](https://img.shields.io/badge/View_Project-00D9FF?style=flat&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/DivyamTalwar/RecruitX)
 
 </td>
 <td width="25%" align="center">
 
 ### **🚀 Stealth AGI**
 
-<img src="https://img.shields.io/badge/PROGRESS-40%25-FF00FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PROGRESS-40%25-FF00FF?style=flat&labelColor=0D1117" />
 
 ```yaml
 Phase: Research
@@ -511,7 +509,7 @@ Funding: Series A
 Launch: Q2 2025
 ```
 
-[![Status](https://img.shields.io/badge/Classified-FF00FF?style=for-the-badge&logo=lock&logoColor=white&labelColor=0D1117)](https://github.com/DivyamTalwar)
+[![Status](https://img.shields.io/badge/Classified-FF00FF?style=flat&logo=lock&logoColor=white&labelColor=0D1117)](https://github.com/DivyamTalwar)
 
 </td>
 </tr>
@@ -538,35 +536,35 @@ Launch: Q2 2025
 <td align="center" width="20%">
 
 <a href="mailto:divyamtalwar.ai@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-Contact_Now-EA4335?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/📧_Email-Contact_Now-EA4335?style=flat&labelColor=0D1117&logo=gmail&logoColor=EA4335" />
 </a>
 
 </td>
 <td align="center" width="20%">
 
 <a href="https://linkedin.com/in/divyam-talwar">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=0077B5" />
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=flat&labelColor=0D1117&logo=linkedin&logoColor=0077B5" />
 </a>
 
 </td>
 <td align="center" width="20%">
 
 <a href="https://github.com/DivyamTalwar">
-  <img src="https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=flat&labelColor=0D1117&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td align="center" width="20%">
 
 <a href="https://discord.com/users/theDream4756">
-  <img src="https://img.shields.io/badge/💬_Discord-Chat-5865F2?style=for-the-badge&labelColor=0D1117&logo=discord&logoColor=5865F2" />
+  <img src="https://img.shields.io/badge/💬_Discord-Chat-5865F2?style=flat&labelColor=0D1117&logo=discord&logoColor=5865F2" />
 </a>
 
 </td>
 <td align="center" width="20%">
 
 <a href="https://calendly.com/divyamtalwar">
-  <img src="https://img.shields.io/badge/📅_Calendar-Book_Call-00A2FF?style=for-the-badge&labelColor=0D1117&logo=calendly&logoColor=00A2FF" />
+  <img src="https://img.shields.io/badge/📅_Calendar-Book_Call-00A2FF?style=flat&labelColor=0D1117&logo=calendly&logoColor=00A2FF" />
 </a>
 
 </td>
@@ -702,15 +700,15 @@ class IdealOpportunity:
 
 ### **📊 IMPACT SUMMARY**
 
-<img src="https://img.shields.io/badge/🚀_SYSTEMS_BUILT-50+-00FF00?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/💰_VALUE_CREATED-$10M+-FFD700?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/👥_LIVES_IMPACTED-100K+-00D9FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🌍_GLOBAL_REACH-25_Countries-FF00FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/🏆_SUCCESS_RATE-94%25-FF0000?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🚀_SYSTEMS_BUILT-50+-00FF00?style=flat&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/💰_VALUE_CREATED-$10M+-FFD700?style=flat&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/👥_LIVES_IMPACTED-100K+-00D9FF?style=flat&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🌍_GLOBAL_REACH-25_Countries-FF00FF?style=flat&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🏆_SUCCESS_RATE-94%25-FF0000?style=flat&labelColor=0D1117" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=DivyamTalwar&label=Profile%20Views&color=FF0000&style=for-the-badge&logo=star" />
+<img src="https://komarev.com/ghpvc/?username=DivyamTalwar&label=Profile%20Views&color=FF0000&style=flat&logo=star" />
 
 </div>
 
