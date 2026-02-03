@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DivyamTalwar&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=E6EDF3&text_color=E6EDF3&icon_color=00F5D4" height="170" />
+  <img src="https://raw.githubusercontent.com/DivyamTalwar/DivyamTalwar/main/assets/stats.png" alt="GitHub Impact" width="100%" />
 </div>
 
 <div align="center">
