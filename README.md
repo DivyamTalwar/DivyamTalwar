@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DivyamTalwar/DivyamTalwar/main/assets/hero.png" alt="Neural Hero" width="100%" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/hero.png?raw=1" alt="Neural Hero" width="100%" />
 </div>
 
 <h1 align="center">Divyam Talwar</h1>
@@ -7,7 +7,7 @@
 <p align="center"><strong>Designing neural architectures and agent systems that turn infinite reasoning into deployable intelligence.</strong></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DivyamTalwar/DivyamTalwar/main/assets/tagline.png" alt="Tagline" width="100%" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/tagline.png?raw=1" alt="Tagline" width="100%" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DivyamTalwar/DivyamTalwar/main/assets/blueprint-strip.png" alt="Neural Blueprint" width="100%" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/blueprint-strip.png?raw=1" alt="Neural Blueprint" width="100%" />
 </div>
 
 **Core Focus**
@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DivyamTalwar/DivyamTalwar/main/assets/stats.png" alt="GitHub Impact" width="100%" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/stats.png?raw=1" alt="GitHub Impact" width="100%" />
 </div>
 
 <div align="center">
