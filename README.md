@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.png" alt="Neural Hero" width="100%" />
+  <img src="https://raw.githubusercontent.com/DivyamTalwar/DivyamTalwar/main/assets/hero.png" alt="Neural Hero" width="100%" />
 </div>
 
 <h1 align="center">Divyam Talwar</h1>
@@ -7,7 +7,7 @@
 <p align="center"><strong>Designing neural architectures and agent systems that turn infinite reasoning into deployable intelligence.</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=600&color=00F5D4&background=0B0F1A00&center=true&vCenter=true&width=1000&lines=Cadence-AI+•+SYNC+•+INFINICHUNK+•+OUROBOROS+•+SYNAPTIC+•+BLUEPRINT;Neural+Architectures+•+Multi-Agent+Systems+•+Cognitive+Networks;Systems+that+ship+•+Intelligence+that+scales" />
+  <img src="https://raw.githubusercontent.com/DivyamTalwar/DivyamTalwar/main/assets/tagline.png" alt="Tagline" width="100%" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 </table>
 
 <div align="center">
-  <img src="assets/blueprint-strip.png" alt="Neural Blueprint" width="100%" />
+  <img src="https://raw.githubusercontent.com/DivyamTalwar/DivyamTalwar/main/assets/blueprint-strip.png" alt="Neural Blueprint" width="100%" />
 </div>
 
 **Core Focus**
