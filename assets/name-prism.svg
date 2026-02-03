@@ -1,0 +1,101 @@
+<svg width="1600" height="320" viewBox="0 0 1600 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f1a"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00f5d4">
+        <animate attributeName="stop-color" values="#00f5d4;#7b61ff;#00f5d4" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#7b61ff">
+        <animate attributeName="stop-color" values="#7b61ff;#ff3d81;#7b61ff" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ff3d81">
+        <animate attributeName="stop-color" values="#ff3d81;#00f5d4;#ff3d81" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur" />
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.8 0" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <mask id="text-mask">
+      <rect width="1600" height="320" fill="black" />
+      <text x="50%" y="55%" text-anchor="middle" fill="white"
+            font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-weight="800" font-size="86" letter-spacing="4">
+        DIVYAM TALWAR
+      </text>
+    </mask>
+  </defs>
+
+  <rect width="1600" height="320" fill="url(#bg)"/>
+
+  <!-- floating particles -->
+  <g opacity="0.18">
+    <circle cx="180" cy="70" r="8" fill="#00f5d4">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 12; 0 0" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1420" cy="240" r="10" fill="#7b61ff">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -10; 0 0" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1180" cy="80" r="6" fill="#3b82f6">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -10 8; 0 0" dur="6s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- prisms -->
+  <g opacity="0.35">
+    <polygon points="120 40, 320 40, 220 220" fill="#00f5d4">
+      <animate attributeName="opacity" values="0.15;0.7;0.15" dur="6s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform" type="translate" values="0 0; 8 6; 0 0" dur="8s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="1420 280, 1200 280, 1300 80" fill="#7b61ff">
+      <animate attributeName="opacity" values="0.2;0.75;0.2" dur="5s" repeatCount="indefinite" />
+      <animateTransform attributeName="transform" type="translate" values="0 0; -10 -6; 0 0" dur="7s" repeatCount="indefinite" />
+    </polygon>
+  </g>
+
+  <!-- glowing text -->
+  <g filter="url(#softGlow)">
+    <text x="50%" y="55%" text-anchor="middle" fill="url(#textGrad)"
+          font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-weight="800" font-size="86" letter-spacing="4">
+      DIVYAM TALWAR
+      <animate attributeName="opacity" values="0.9;1;0.9" dur="3s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <!-- crisp text layer -->
+  <text x="50%" y="55%" text-anchor="middle" fill="url(#textGrad)"
+        font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-weight="800" font-size="86" letter-spacing="4">
+    DIVYAM TALWAR
+  </text>
+
+  <!-- light sweep over text -->
+  <g mask="url(#text-mask)">
+    <rect x="-500" y="0" width="500" height="320" fill="url(#shine)">
+      <animateTransform attributeName="transform" type="translate" values="-500 0; 2100 0" dur="4s" repeatCount="indefinite" />
+    </rect>
+  </g>
+
+  <g opacity="0.35">
+    <rect x="0" y="250" width="1600" height="2" fill="#00f5d4">
+      <animate attributeName="opacity" values="0.1;0.6;0.1" dur="5s" repeatCount="indefinite" />
+    </rect>
+    <rect x="0" y="70" width="1600" height="2" fill="#7b61ff">
+      <animate attributeName="opacity" values="0.15;0.7;0.15" dur="4s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>

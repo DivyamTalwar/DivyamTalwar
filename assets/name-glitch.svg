@@ -1,0 +1,59 @@
+<svg width="1600" height="320" viewBox="0 0 1600 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f1a"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00f5d4"/>
+      <stop offset="100%" stop-color="#7b61ff"/>
+    </linearGradient>
+    <clipPath id="slice1">
+      <rect x="0" y="80" width="1600" height="40"/>
+    </clipPath>
+    <clipPath id="slice2">
+      <rect x="0" y="140" width="1600" height="40"/>
+    </clipPath>
+    <clipPath id="slice3">
+      <rect x="0" y="200" width="1600" height="40"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1600" height="320" fill="url(#bg)"/>
+
+  <!-- Base text -->
+  <text x="50%" y="55%" text-anchor="middle" fill="url(#textGrad)"
+        font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-weight="800" font-size="86" letter-spacing="4">
+    DIVYAM TALWAR
+  </text>
+
+  <!-- Glitch layers -->
+  <g clip-path="url(#slice1)">
+    <text x="50%" y="55%" text-anchor="middle" fill="#ff3d81"
+          font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-weight="800" font-size="86" letter-spacing="4">
+      DIVYAM TALWAR
+      <animate attributeName="x" values="50%;49.6%;50.2%;50%" dur="2s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <g clip-path="url(#slice2)">
+    <text x="50%" y="55%" text-anchor="middle" fill="#00f5d4"
+          font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-weight="800" font-size="86" letter-spacing="4">
+      DIVYAM TALWAR
+      <animate attributeName="x" values="50%;50.4%;49.8%;50%" dur="1.6s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <g clip-path="url(#slice3)">
+    <text x="50%" y="55%" text-anchor="middle" fill="#7b61ff"
+          font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-weight="800" font-size="86" letter-spacing="4">
+      DIVYAM TALWAR
+      <animate attributeName="x" values="50%;49.7%;50.3%;50%" dur="2.4s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <!-- Scanline -->
+  <rect x="0" y="0" width="1600" height="6" fill="#00f5d4" opacity="0.6">
+    <animate attributeName="y" values="0;320;0" dur="4s" repeatCount="indefinite" />
+  </rect>
+</svg>
