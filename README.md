@@ -47,8 +47,10 @@
 </tr>
 </table>
 
+**Neural Constellation**
+
 <div align="center">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/blueprint-strip.png?raw=1" alt="Neural Blueprint" width="100%" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/constellation-map.svg?raw=1" alt="Neural Constellation" width="100%" />
 </div>
 
 **Core Focus**
