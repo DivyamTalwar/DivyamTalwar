@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/name-prism.svg?raw=1" alt="Divyam Talwar" width="100%" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/name-prism-09-sunset.svg?raw=1" alt="Divyam Talwar" width="100%" />
 </div>
 
 <h1 align="center">Divyam Talwar</h1>
@@ -72,12 +72,12 @@
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-0B0F1A?style=flat-square&logo=python&logoColor=00F5D4&labelColor=0B0F1A)
-![PyTorch](https://img.shields.io/badge/PyTorch-0B0F1A?style=flat-square&logo=pytorch&logoColor=FF6F61&labelColor=0B0F1A)
-![LangChain](https://img.shields.io/badge/LangChain-0B0F1A?style=flat-square&logo=chainlink&logoColor=7B61FF&labelColor=0B0F1A)
-![LangGraph](https://img.shields.io/badge/LangGraph-0B0F1A?style=flat-square&logo=graphql&logoColor=00F5D4&labelColor=0B0F1A)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B0F1A?style=flat-square&logo=fastapi&logoColor=00F5D4&labelColor=0B0F1A)
-![Docker](https://img.shields.io/badge/Docker-0B0F1A?style=flat-square&logo=docker&logoColor=3B82F6&labelColor=0B0F1A)
+![Python](https://img.shields.io/badge/Python-0B0F1A?style=flat-square&logo=python&logoColor=F97316&labelColor=0B0F1A)
+![PyTorch](https://img.shields.io/badge/PyTorch-0B0F1A?style=flat-square&logo=pytorch&logoColor=FB7185&labelColor=0B0F1A)
+![LangChain](https://img.shields.io/badge/LangChain-0B0F1A?style=flat-square&logo=chainlink&logoColor=F59E0B&labelColor=0B0F1A)
+![LangGraph](https://img.shields.io/badge/LangGraph-0B0F1A?style=flat-square&logo=graphql&logoColor=F97316&labelColor=0B0F1A)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B0F1A?style=flat-square&logo=fastapi&logoColor=F97316&labelColor=0B0F1A)
+![Docker](https://img.shields.io/badge/Docker-0B0F1A?style=flat-square&logo=docker&logoColor=FB7185&labelColor=0B0F1A)
 
 ---
 
@@ -86,7 +86,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyamTalwar&bg_color=0B0F1A&color=E6EDF3&line=00F5D4&point=7B61FF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyamTalwar&bg_color=0B0F1A&color=E6EDF3&line=F97316&point=FB7185&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
