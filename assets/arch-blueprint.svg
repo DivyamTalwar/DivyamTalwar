@@ -1,20 +1,20 @@
-<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+<svg width="1440" height="288" viewBox="0 0 1440 288" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0b0f1a" />
       <stop offset="100%" stop-color="#111827" />
     </linearGradient>
-    <marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
-      <polygon points="0,0 10,4 0,8" fill="#38bdf8" />
+    <marker id="arrow" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto">
+      <polygon points="0,0 12,5 0,10" fill="#38bdf8" />
     </marker>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur" />
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
-  <rect width="1200" height="240" fill="url(#bg)" rx="16"/>
-  <rect x="8" y="8" width="1184" height="224" fill="none" stroke="#1f2937" rx="14"/>
-<rect x="60" y="90" width="160" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="140.0" y="112.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="140.0" dy="0">Idea</tspan></text><rect x="250" y="90" width="190" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="345.0" y="112.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="345.0" dy="0">Feature</tspan><tspan x="345.0" dy="16">Selection</tspan></text><rect x="470" y="90" width="190" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="565.0" y="112.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="565.0" dy="0">Architecture</tspan><tspan x="565.0" dy="16">Graph</tspan></text><rect x="690" y="90" width="190" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="785.0" y="112.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="785.0" dy="0">Code + Tests</tspan><tspan x="785.0" dy="16">TDD</tspan></text><rect x="910" y="90" width="190" height="60" rx="10" fill="#0f172a" stroke="#f97316" stroke-width="2"/><text x="1005.0" y="112.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="1005.0" dy="0">Production</tspan><tspan x="1005.0" dy="16">Repo</tspan></text><line x1="220" y1="120" x2="250" y2="120" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="440" y1="120" x2="470" y2="120" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="660" y1="120" x2="690" y2="120" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="880" y1="120" x2="910" y2="120" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /></svg>
+  <rect width="1440" height="288" fill="url(#bg)" rx="19"/>
+  <rect x="10" y="10" width="1421" height="269" fill="none" stroke="#1f2937" rx="17"/>
+<rect x="72" y="108" width="216" height="84" rx="12" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="180.0" y="140.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="18" fill="#e6edf3" font-weight="600"><tspan x="180.0" dy="0">Idea</tspan></text><rect x="324" y="108" width="252" height="84" rx="12" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="450.0" y="140.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="18" fill="#e6edf3" font-weight="600"><tspan x="450.0" dy="0">Feature</tspan><tspan x="450.0" dy="19">Selection</tspan></text><rect x="612" y="108" width="252" height="84" rx="12" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="738.0" y="140.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="18" fill="#e6edf3" font-weight="600"><tspan x="738.0" dy="0">Architecture</tspan><tspan x="738.0" dy="19">Graph</tspan></text><rect x="900" y="108" width="252" height="84" rx="12" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="1026.0" y="140.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="18" fill="#e6edf3" font-weight="600"><tspan x="1026.0" dy="0">Code + Tests</tspan><tspan x="1026.0" dy="19">TDD</tspan></text><rect x="1188" y="108" width="252" height="84" rx="12" fill="#0f172a" stroke="#f97316" stroke-width="2"/><text x="1314.0" y="140.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="18" fill="#e6edf3" font-weight="600"><tspan x="1314.0" dy="0">Production</tspan><tspan x="1314.0" dy="19">Repo</tspan></text><line x1="288" y1="150" x2="324" y2="150" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="576" y1="150" x2="612" y2="150" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="864" y1="150" x2="900" y2="150" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="1152" y1="150" x2="1188" y2="150" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /></svg>

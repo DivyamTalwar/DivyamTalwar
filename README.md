@@ -14,7 +14,7 @@
 
 **Featured Systems**
 
-<table cellpadding="14" cellspacing="0">
+<table cellpadding="18" cellspacing="0">
 <tr>
 <td width="55%" valign="top">
   <strong>Cadence-AI</strong><br/>
@@ -22,7 +22,7 @@
   <a href="https://github.com/DivyamTalwar/Cadence-AI">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-cadence-ai.svg?raw=1" width="650" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-cadence-ai.svg?raw=1" width="750" />
 </td>
 </tr>
 <tr><td colspan="2">&nbsp;</td></tr>
@@ -33,7 +33,7 @@
   <a href="https://github.com/DivyamTalwar/SYNC">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-sync.svg?raw=1" width="650" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-sync.svg?raw=1" width="750" />
 </td>
 </tr>
 <tr><td colspan="2">&nbsp;</td></tr>
@@ -44,7 +44,7 @@
   <a href="https://github.com/DivyamTalwar/INFINICHUNK">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-infinichunk.svg?raw=1" width="650" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-infinichunk.svg?raw=1" width="750" />
 </td>
 </tr>
 <tr><td colspan="2">&nbsp;</td></tr>
@@ -55,7 +55,7 @@
   <a href="https://github.com/DivyamTalwar/OUROBOROS">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-ouroboros.svg?raw=1" width="650" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-ouroboros.svg?raw=1" width="750" />
 </td>
 </tr>
 <tr><td colspan="2">&nbsp;</td></tr>
@@ -66,7 +66,7 @@
   <a href="https://github.com/DivyamTalwar/SYNAPTIC">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-synaptic.svg?raw=1" width="650" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-synaptic.svg?raw=1" width="750" />
 </td>
 </tr>
 <tr><td colspan="2">&nbsp;</td></tr>
@@ -78,7 +78,7 @@
   <a href="https://github.com/DivyamTalwar/BLUEPRINT">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-blueprint.svg?raw=1" width="650" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-blueprint.svg?raw=1" width="750" />
 </td>
 </tr>
 <tr><td colspan="2">&nbsp;</td></tr>
@@ -90,7 +90,7 @@
   <a href="https://github.com/DivyamTalwar/AIME">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-aime.svg?raw=1" width="650" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-aime.svg?raw=1" width="750" />
 </td>
 </tr>
 <tr><td colspan="2">&nbsp;</td></tr>
@@ -100,7 +100,7 @@
   The next system is already in motion. Expect a new architecture reveal soon.
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-coming-soon.svg?raw=1" width="650" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-coming-soon.svg?raw=1" width="750" />
 </td>
 </tr>
 </table>
