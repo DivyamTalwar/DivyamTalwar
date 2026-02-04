@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/name-prism-09-sunset.svg?raw=1" alt="Divyam Talwar" width="100%" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/hero-final.svg?raw=1" alt="Divyam Talwar" width="100%" />
 </div>
 
 <h1 align="center">Divyam Talwar</h1>
