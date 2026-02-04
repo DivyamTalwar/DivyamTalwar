@@ -1,0 +1,20 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f1a" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+      <polygon points="0,0 10,4 0,8" fill="#38bdf8" />
+    </marker>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="240" fill="url(#bg)" rx="16"/>
+  <rect x="8" y="8" width="1184" height="224" fill="none" stroke="#1f2937" rx="14"/>
+<rect x="80" y="60" width="160" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="160.0" y="82.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="160.0" dy="0">Generate</tspan><tspan x="160.0" dy="16">Chunk</tspan></text><rect x="270" y="60" width="160" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="350.0" y="82.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="350.0" dy="0">Trim</tspan><tspan x="350.0" dy="16">Context</tspan></text><rect x="460" y="60" width="160" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="540.0" y="82.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="540.0" dy="0">Carryover</tspan><tspan x="540.0" dy="16">State</tspan></text><rect x="650" y="60" width="160" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="730.0" y="82.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="730.0" dy="0">Next</tspan><tspan x="730.0" dy="16">Chunk</tspan></text><rect x="260" y="150" width="200" height="60" rx="10" fill="#0f172a" stroke="#f97316" stroke-width="2"/><text x="360.0" y="172.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="360.0" dy="0">Rollout Engine</tspan><tspan x="360.0" dy="16">(vLLM/SGLang)</tspan></text><rect x="500" y="150" width="200" height="60" rx="10" fill="#0f172a" stroke="#fb7185" stroke-width="2"/><text x="600.0" y="172.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="600.0" dy="0">Trainer</tspan><tspan x="600.0" dy="16">PPO/GRPO + FSDP</tspan></text><line x1="240" y1="90" x2="270" y2="90" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="430" y1="90" x2="460" y2="90" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="620" y1="90" x2="650" y2="90" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="730" y1="90" x2="80" y2="90" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="350" y1="120" x2="350" y2="150" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="600" y1="120" x2="600" y2="150" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /></svg>

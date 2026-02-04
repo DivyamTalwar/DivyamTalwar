@@ -1,0 +1,20 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f1a" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto">
+      <polygon points="0,0 10,4 0,8" fill="#38bdf8" />
+    </marker>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="240" fill="url(#bg)" rx="16"/>
+  <rect x="8" y="8" width="1184" height="224" fill="none" stroke="#1f2937" rx="14"/>
+<rect x="60" y="80" width="140" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="130.0" y="102.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="130.0" dy="0">Input</tspan><tspan x="130.0" dy="16">Tokens</tspan></text><rect x="220" y="80" width="140" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="290.0" y="102.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="290.0" dy="0">Patch</tspan><tspan x="290.0" dy="16">Embed</tspan></text><rect x="380" y="80" width="160" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="460.0" y="102.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="460.0" dy="0">Autoencoder</tspan></text><rect x="560" y="80" width="150" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="635.0" y="102.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="635.0" dy="0">Latent</tspan><tspan x="635.0" dy="16">Vector</tspan></text><rect x="730" y="80" width="190" height="60" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="2"/><text x="825.0" y="102.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="825.0" dy="0">Continuous</tspan><tspan x="825.0" dy="16">Model</tspan><tspan x="825.0" dy="16">(Energy/Diff/Flow)</tspan></text><rect x="940" y="80" width="180" height="60" rx="10" fill="#1f2937" stroke="#f97316" stroke-width="2"/><text x="1030.0" y="102.0" text-anchor="middle" font-family="Segoe UI, Arial" font-size="15" fill="#e6edf3" font-weight="600"><tspan x="1030.0" dy="0">Decoder →</tspan><tspan x="1030.0" dy="16">Tokens</tspan></text><line x1="200" y1="110" x2="220" y2="110" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="360" y1="110" x2="380" y2="110" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="540" y1="110" x2="560" y2="110" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="710" y1="110" x2="730" y2="110" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /><line x1="920" y1="110" x2="940" y2="110" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" /></svg>

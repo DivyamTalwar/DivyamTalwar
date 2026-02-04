@@ -17,32 +17,127 @@
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/DivyamTalwar/Cadence-AI"><strong>Cadence-AI</strong></a><br/>
-  Continuous-vector language modeling for seamless generation at scale.
+  <table>
+    <tr>
+      <td width="55%">
+        <strong>Cadence-AI</strong><br/>
+        Autoencoder + continuous heads for latent generation.<br/>
+        <a href="https://github.com/DivyamTalwar/Cadence-AI">Repo</a>
+      </td>
+      <td width="45%" align="right">
+        <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-cadence-ai.svg?raw=1" width="320" />
+      </td>
+    </tr>
+  </table>
 </td>
 <td width="50%">
-  <a href="https://github.com/DivyamTalwar/SYNC"><strong>SYNC</strong></a><br/>
-  Strategic synthesis of cognitive networks for coordinated reasoning.
+  <table>
+    <tr>
+      <td width="55%">
+        <strong>SYNC</strong><br/>
+        Gateway → orchestration → agents → LLM APIs.
+        <br/>
+        <a href="https://github.com/DivyamTalwar/SYNC">Repo</a>
+      </td>
+      <td width="45%" align="right">
+        <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-sync.svg?raw=1" width="320" />
+      </td>
+    </tr>
+  </table>
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/DivyamTalwar/INFINICHUNK"><strong>INFINICHUNK</strong></a><br/>
-  Infinite reasoning through finite chunks for long-context intelligence.
+  <table>
+    <tr>
+      <td width="55%">
+        <strong>INFINICHUNK</strong><br/>
+        Generate → Trim → Carryover loop + PPO training.
+        <br/>
+        <a href="https://github.com/DivyamTalwar/INFINICHUNK">Repo</a>
+      </td>
+      <td width="45%" align="right">
+        <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-infinichunk.svg?raw=1" width="320" />
+      </td>
+    </tr>
+  </table>
 </td>
 <td width="50%">
-  <a href="https://github.com/DivyamTalwar/OUROBOROS"><strong>OUROBOROS</strong></a><br/>
-  Residual architectures with learnable geometric transformation.
+  <table>
+    <tr>
+      <td width="55%">
+        <strong>OUROBOROS</strong><br/>
+        Delta-operator residuals with k/β/v branches.
+        <br/>
+        <a href="https://github.com/DivyamTalwar/OUROBOROS">Repo</a>
+      </td>
+      <td width="45%" align="right">
+        <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-ouroboros.svg?raw=1" width="320" />
+      </td>
+    </tr>
+  </table>
 </td>
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/DivyamTalwar/SYNAPTIC"><strong>SYNAPTIC</strong></a><br/>
-  Hierarchical reasoning through synchronized neural architecture.
+  <table>
+    <tr>
+      <td width="55%">
+        <strong>SYNAPTIC</strong><br/>
+        Fast L-Module + slow H-Module synchronized.
+        <br/>
+        <a href="https://github.com/DivyamTalwar/SYNAPTIC">Repo</a>
+      </td>
+      <td width="45%" align="right">
+        <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-synaptic.svg?raw=1" width="320" />
+      </td>
+    </tr>
+  </table>
 </td>
 <td width="50%">
-  <a href="https://github.com/DivyamTalwar/BLUEPRINT"><strong>BLUEPRINT</strong></a><br/>
-  Code generation systems designed for speed and precision.
+  <table>
+    <tr>
+      <td width="55%">
+        <strong>BLUEPRINT</strong><br/>
+        Idea → features → architecture graph → code + tests.
+        <br/>
+        <a href="https://github.com/DivyamTalwar/BLUEPRINT">Repo</a>
+      </td>
+      <td width="45%" align="right">
+        <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-blueprint.svg?raw=1" width="320" />
+      </td>
+    </tr>
+  </table>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <table>
+    <tr>
+      <td width="55%">
+        <strong>AIME</strong><br/>
+        Memory recall → response → link → evolve.
+        <br/>
+        <a href="https://github.com/DivyamTalwar/AIME">Repo</a>
+      </td>
+      <td width="45%" align="right">
+        <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-aime.svg?raw=1" width="320" />
+      </td>
+    </tr>
+  </table>
+</td>
+<td width="50%">
+  <table>
+    <tr>
+      <td width="55%">
+        <strong>Coming Soon</strong><br/>
+        The next system is already in motion.
+      </td>
+      <td width="45%" align="right">
+        <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-coming-soon.svg?raw=1" width="320" />
+      </td>
+    </tr>
+  </table>
 </td>
 </tr>
 </table>
