@@ -18,81 +18,82 @@
 <tr>
 <td width="55%" valign="top">
   <strong>Cadence-AI</strong><br/>
-  Autoencoder + continuous heads (energy/diffusion/flow) for latent generation.<br/>
+  Autoencoder + continuous heads (energy/diffusion/flow) for latent generation. Optimized for patch-level modeling and efficient scaling.<br/>
   <a href="https://github.com/DivyamTalwar/Cadence-AI">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-cadence-ai.svg?raw=1" width="420" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-cadence-ai.svg?raw=1" width="550" />
 </td>
 </tr>
 <tr>
 <td width="55%" valign="top">
   <strong>SYNC</strong><br/>
-  Gateway → orchestration → agents → LLM APIs for collaborative cognition.<br/>
+  Gateway → orchestration → agents → LLM APIs for collaborative cognition. Designed for coordinated multi‑agent decision loops and consensus.<br/>
   <a href="https://github.com/DivyamTalwar/SYNC">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-sync.svg?raw=1" width="420" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-sync.svg?raw=1" width="550" />
 </td>
 </tr>
 <tr>
 <td width="55%" valign="top">
   <strong>INFINICHUNK</strong><br/>
-  Generate → Trim → Carryover loop with PPO training and high‑throughput rollouts.<br/>
+  Generate → Trim → Carryover loop with PPO training and high‑throughput rollouts. Built for long‑context reasoning under fixed window budgets.<br/>
   <a href="https://github.com/DivyamTalwar/INFINICHUNK">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-infinichunk.svg?raw=1" width="420" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-infinichunk.svg?raw=1" width="550" />
 </td>
 </tr>
 <tr>
 <td width="55%" valign="top">
   <strong>OUROBOROS</strong><br/>
-  Delta‑operator residuals with k/β/v branches for selective forgetting & reflection.<br/>
+  Delta‑operator residuals with k/β/v branches for selective forgetting & reflection. Enables controlled feature erasure and rewriting in‑place.<br/>
   <a href="https://github.com/DivyamTalwar/OUROBOROS">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-ouroboros.svg?raw=1" width="420" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-ouroboros.svg?raw=1" width="550" />
 </td>
 </tr>
 <tr>
 <td width="55%" valign="top">
   <strong>SYNAPTIC</strong><br/>
-  Fast L‑Module + slow H‑Module synchronized into hierarchical reasoning cycles.<br/>
+  Fast L‑Module + slow H‑Module synchronized into hierarchical reasoning cycles. Balances local pattern speed with global strategic planning.<br/>
   <a href="https://github.com/DivyamTalwar/SYNAPTIC">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-synaptic.svg?raw=1" width="420" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-synaptic.svg?raw=1" width="550" />
 </td>
 </tr>
 <tr>
 <td width="55%" valign="top">
   <strong>BLUEPRINT</strong><br/>
-  Idea → feature selection → architecture graph → code + tests (TDD).<br/>
+  Idea → feature selection → architecture graph → code + tests (TDD). Turns specs into production‑ready repos with automated validation.
+  <br/>
   <a href="https://github.com/DivyamTalwar/BLUEPRINT">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-blueprint.svg?raw=1" width="420" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-blueprint.svg?raw=1" width="550" />
 </td>
 </tr>
 <tr>
 <td width="55%" valign="top">
   <strong>AIME</strong><br/>
-  Memory recall → response → link → evolve for persistent intelligence.
+  Memory recall → response → link → evolve for persistent intelligence. Self‑evolving memory graph that improves with every interaction.
   <br/>
   <a href="https://github.com/DivyamTalwar/AIME">Repo</a>
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-aime.svg?raw=1" width="420" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-aime.svg?raw=1" width="550" />
 </td>
 </tr>
 <tr>
 <td width="55%" valign="top">
   <strong>Coming Soon</strong><br/>
-  The next system is already in motion.
+  The next system is already in motion. Expect a new architecture reveal soon.
 </td>
 <td width="45%" align="right">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-coming-soon.svg?raw=1" width="420" />
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-coming-soon.svg?raw=1" width="550" />
 </td>
 </tr>
 </table>
