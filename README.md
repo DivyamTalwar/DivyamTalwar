@@ -2,9 +2,9 @@
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/hero-final.svg?raw=1" alt="Divyam Talwar" width="100%" />
 </div>
 
-<h1 align="center">Divyam Talwar</h1>
+<h1 align="center" style="font-size: 2.6em;">Divyam Talwar</h1>
 
-<p align="center"><strong>Designing neural architectures and agent systems that turn infinite reasoning into deployable intelligence.</strong></p>
+<p align="center" style="font-size: 1.35em;"><strong>Designing neural architectures and agent systems that turn infinite reasoning into deployable intelligence.</strong></p>
 
 <p align="center">
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/tagline.png?raw=1" alt="Tagline" width="100%" />
@@ -12,21 +12,21 @@
 
 ---
 
-**Featured Systems**
+<div align="center" style="font-size:2.5em;"><strong>Featured Systems</strong></div>
 
 <table cellpadding="16" cellspacing="0">
 <tr><td>
 <div style="border:2px solid #22d3ee; border-radius:14px; padding:14px;">
-  <strong>Cadence-AI</strong><br/>
+  <strong style="color: #22d3ee;">Cadence-AI</strong><br/>
   Autoencoder + continuous heads (energy/diffusion/flow) for latent generation. Optimized for patch-level modeling and efficient scaling.<br/>
-  <a href="https://github.com/DivyamTalwar/Cadence-AI">Repo</a><br/><br/>
+  <a href="https://github.com/DivyamTalwar/Cadence-AI" style="color: #22d3ee;" style="color: #7c3aed;" style="color: #f97316;" style="color: #10b981;" style="color: #ec4899;" style="color: #38bdf8;" style="color: #f59e0b;">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-cadence-ai.svg?raw=1" width="920" />
 </div>
 </td></tr>
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #7c3aed; border-radius:14px; padding:14px;">
-  <strong>SYNC</strong><br/>
+  <strong style="color: #7c3aed;">SYNC</strong><br/>
   Gateway → orchestration → agents → LLM APIs for collaborative cognition. Designed for coordinated multi‑agent decision loops and consensus.<br/>
   <a href="https://github.com/DivyamTalwar/SYNC">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-sync.svg?raw=1" width="920" />
@@ -35,7 +35,7 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #f97316; border-radius:14px; padding:14px;">
-  <strong>INFINICHUNK</strong><br/>
+  <strong style="color: #f97316;">INFINICHUNK</strong><br/>
   Generate → Trim → Carryover loop with PPO training and high‑throughput rollouts. Built for long‑context reasoning under fixed window budgets.<br/>
   <a href="https://github.com/DivyamTalwar/INFINICHUNK">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-infinichunk.svg?raw=1" width="920" />
@@ -44,7 +44,7 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #10b981; border-radius:14px; padding:14px;">
-  <strong>OUROBOROS</strong><br/>
+  <strong style="color: #10b981;">OUROBOROS</strong><br/>
   Delta‑operator residuals with k/β/v branches for selective forgetting & reflection. Enables controlled feature erasure and rewriting in‑place.<br/>
   <a href="https://github.com/DivyamTalwar/OUROBOROS">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-ouroboros.svg?raw=1" width="920" />
@@ -53,7 +53,7 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #ec4899; border-radius:14px; padding:14px;">
-  <strong>SYNAPTIC</strong><br/>
+  <strong style="color: #ec4899;">SYNAPTIC</strong><br/>
   Fast L‑Module + slow H‑Module synchronized into hierarchical reasoning cycles. Balances local pattern speed with global strategic planning.<br/>
   <a href="https://github.com/DivyamTalwar/SYNAPTIC">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-synaptic.svg?raw=1" width="920" />
@@ -62,7 +62,7 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #38bdf8; border-radius:14px; padding:14px;">
-  <strong>BLUEPRINT</strong><br/>
+  <strong style="color: #38bdf8;">BLUEPRINT</strong><br/>
   Idea → feature selection → architecture graph → code + tests (TDD). Turns specs into production‑ready repos with automated validation.<br/>
   <a href="https://github.com/DivyamTalwar/BLUEPRINT">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-blueprint.svg?raw=1" width="920" />
@@ -71,7 +71,7 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #f59e0b; border-radius:14px; padding:14px;">
-  <strong>AIME</strong><br/>
+  <strong style="color: #f59e0b;">AIME</strong><br/>
   Memory recall → response → link → evolve for persistent intelligence. Self‑evolving memory graph that improves with every interaction.<br/>
   <a href="https://github.com/DivyamTalwar/AIME">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-aime.svg?raw=1" width="920" />
@@ -80,38 +80,39 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #60a5fa; border-radius:14px; padding:14px;">
-  <strong>Coming Soon</strong><br/>
+  <strong style="color: #60a5fa;">Coming Soon</strong><br/>
   The next system is already in motion. Expect a new architecture reveal soon.<br/>
 <br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-coming-soon.svg?raw=1" width="920" />
 </div>
 </td></tr>
 </table>
-**Neural Constellation**
+<div align="center" style="font-size:1.8em;"><strong>Core Focus</strong></div>
 
-<div align="center">
-  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/constellation-map.svg?raw=1" alt="Neural Constellation" width="100%" />
-</div>
-
-**Core Focus**
-
-<table>
+<table cellpadding="12" cellspacing="0">
 <tr>
-<td align="center" width="33%">
-  <strong>AI Systems</strong><br/>
-  Robust, production-grade intelligence pipelines.
+<td width="33%">
+  <div style="border:2px solid #38bdf8; border-radius:14px; padding:12px; text-align:center;">
+    <strong style="color:#38bdf8;">AI Systems</strong><br/>
+    Robust, production-grade intelligence pipelines.
+  </div>
 </td>
-<td align="center" width="33%">
-  <strong>Neural Architectures</strong><br/>
-  Novel reasoning structures and synchronized cognition.
+<td width="33%">
+  <div style="border:2px solid #f97316; border-radius:14px; padding:12px; text-align:center;">
+    <strong style="color:#f97316;">Neural Architectures</strong><br/>
+    Novel reasoning structures and synchronized cognition.
+  </div>
 </td>
-<td align="center" width="33%">
-  <strong>Agentic Frameworks</strong><br/>
-  Multi-agent orchestration that scales.
+<td width="33%">
+  <div style="border:2px solid #7c3aed; border-radius:14px; padding:12px; text-align:center;">
+    <strong style="color:#7c3aed;">Agentic Frameworks</strong><br/>
+    Multi-agent orchestration that scales.
+  </div>
 </td>
 </tr>
 </table>
 
+<div style="font-size:1.05em;">
 **Tech Stack**
 
 **Programming Languages**
@@ -136,7 +137,8 @@
 
 **Soft Skills**
 
-Leadership • Cross-functional Collaboration • Strategic Thinking • Communication • Problem-Solving
+Leadership • Cross-functional Collaboration • Strategic Thinking • Communication • Problem-Solving • Systems Thinking • Execution • Mentorship • Product Strategy
+</div>
 
 ---
 
