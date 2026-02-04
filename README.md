@@ -16,64 +16,77 @@
 
 <table cellpadding="16" cellspacing="0">
 <tr><td>
+<div style="border:2px solid #22d3ee; border-radius:14px; padding:14px;">
   <strong>Cadence-AI</strong><br/>
   Autoencoder + continuous heads (energy/diffusion/flow) for latent generation. Optimized for patch-level modeling and efficient scaling.<br/>
   <a href="https://github.com/DivyamTalwar/Cadence-AI">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-cadence-ai.svg?raw=1" width="920" />
+</div>
 </td></tr>
-
+<tr><td height="12"></td></tr>
 <tr><td>
+<div style="border:2px solid #7c3aed; border-radius:14px; padding:14px;">
   <strong>SYNC</strong><br/>
   Gateway → orchestration → agents → LLM APIs for collaborative cognition. Designed for coordinated multi‑agent decision loops and consensus.<br/>
   <a href="https://github.com/DivyamTalwar/SYNC">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-sync.svg?raw=1" width="920" />
+</div>
 </td></tr>
-
+<tr><td height="12"></td></tr>
 <tr><td>
+<div style="border:2px solid #f97316; border-radius:14px; padding:14px;">
   <strong>INFINICHUNK</strong><br/>
   Generate → Trim → Carryover loop with PPO training and high‑throughput rollouts. Built for long‑context reasoning under fixed window budgets.<br/>
   <a href="https://github.com/DivyamTalwar/INFINICHUNK">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-infinichunk.svg?raw=1" width="920" />
+</div>
 </td></tr>
-
+<tr><td height="12"></td></tr>
 <tr><td>
+<div style="border:2px solid #10b981; border-radius:14px; padding:14px;">
   <strong>OUROBOROS</strong><br/>
   Delta‑operator residuals with k/β/v branches for selective forgetting & reflection. Enables controlled feature erasure and rewriting in‑place.<br/>
   <a href="https://github.com/DivyamTalwar/OUROBOROS">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-ouroboros.svg?raw=1" width="920" />
+</div>
 </td></tr>
-
+<tr><td height="12"></td></tr>
 <tr><td>
+<div style="border:2px solid #ec4899; border-radius:14px; padding:14px;">
   <strong>SYNAPTIC</strong><br/>
   Fast L‑Module + slow H‑Module synchronized into hierarchical reasoning cycles. Balances local pattern speed with global strategic planning.<br/>
   <a href="https://github.com/DivyamTalwar/SYNAPTIC">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-synaptic.svg?raw=1" width="920" />
+</div>
 </td></tr>
-
+<tr><td height="12"></td></tr>
 <tr><td>
+<div style="border:2px solid #38bdf8; border-radius:14px; padding:14px;">
   <strong>BLUEPRINT</strong><br/>
-  Idea → feature selection → architecture graph → code + tests (TDD). Turns specs into production‑ready repos with automated validation.
-  <br/>
+  Idea → feature selection → architecture graph → code + tests (TDD). Turns specs into production‑ready repos with automated validation.<br/>
   <a href="https://github.com/DivyamTalwar/BLUEPRINT">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-blueprint.svg?raw=1" width="920" />
+</div>
 </td></tr>
-
+<tr><td height="12"></td></tr>
 <tr><td>
+<div style="border:2px solid #f59e0b; border-radius:14px; padding:14px;">
   <strong>AIME</strong><br/>
-  Memory recall → response → link → evolve for persistent intelligence. Self‑evolving memory graph that improves with every interaction.
-  <br/>
+  Memory recall → response → link → evolve for persistent intelligence. Self‑evolving memory graph that improves with every interaction.<br/>
   <a href="https://github.com/DivyamTalwar/AIME">Repo</a><br/><br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-aime.svg?raw=1" width="920" />
+</div>
 </td></tr>
-
+<tr><td height="12"></td></tr>
 <tr><td>
+<div style="border:2px solid #60a5fa; border-radius:14px; padding:14px;">
   <strong>Coming Soon</strong><br/>
-  The next system is already in motion. Expect a new architecture reveal soon.
-  <br/><br/>
+  The next system is already in motion. Expect a new architecture reveal soon.<br/>
+<br/>
   <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-coming-soon.svg?raw=1" width="920" />
+</div>
 </td></tr>
 </table>
-
 **Neural Constellation**
 
 <div align="center">

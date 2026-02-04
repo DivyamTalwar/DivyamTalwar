@@ -2,13 +2,13 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0b0f1a" />
-      <stop offset="100%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#101826" />
     </linearGradient>
     <marker id="arrow" markerWidth="12" markerHeight="10" refX="11" refY="5" orient="auto">
-      <polygon points="0,0 12,5 0,10" fill="#38bdf8" />
+      <polygon points="0,0 12,5 0,10" fill="#60a5fa" />
     </marker>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur" />
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -18,12 +18,12 @@
   <rect width="1440" height="288" fill="url(#bg)" rx="19"/>
   <rect x="10" y="10" width="1421" height="269" fill="none" stroke="#1f2937" rx="17"/>
 
-  <circle cx="720" cy="144" r="31" fill="#f97316" filter="url(#glow)">
-    <animate attributeName="r" values="29;38;29" dur="2.6s" repeatCount="indefinite" />
+  <circle cx="720" cy="120" r="26" fill="#f97316" filter="url(#glow)">
+    <animate attributeName="r" values="24;32;24" dur="2.6s" repeatCount="indefinite" />
   </circle>
-  <circle cx="720" cy="144" r="72" stroke="#38bdf8" stroke-width="2" fill="none" opacity="0.6">
-    <animate attributeName="r" values="60;96;60" dur="3.8s" repeatCount="indefinite" />
+  <circle cx="720" cy="120" r="60" stroke="#60a5fa" stroke-width="3" fill="none" opacity="0.6">
+    <animate attributeName="r" values="50;80;50" dur="3.8s" repeatCount="indefinite" />
   </circle>
-  <text x="720" y="156" text-anchor="middle" font-family="Segoe UI, Arial" font-size="38" fill="#e6edf3" font-weight="700">COMING SOON</text>
-  <text x="720" y="186" text-anchor="middle" font-family="Segoe UI, Arial" font-size="17" fill="#94a3b8">Next system in the pipeline</text>
+  <text x="720" y="130" text-anchor="middle" font-family="Segoe UI, Arial" font-size="32" fill="#e6edf3" font-weight="700">COMING SOON</text>
+  <text x="720" y="155" text-anchor="middle" font-family="Segoe UI, Arial" font-size="14" fill="#94a3b8">Next system in the pipeline</text>
 </svg>
