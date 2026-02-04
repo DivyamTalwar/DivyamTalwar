@@ -17,7 +17,7 @@
 <table cellpadding="16" cellspacing="0">
 <tr><td>
 <div style="border:2px solid #22d3ee; border-radius:14px; padding:18px;">
-  <div style="font-size:1.5em; font-weight:800; color:#ffffff; letter-spacing:0.02em;">Cadence-AI</div>
+  <div style="font-size:1.5em; font-weight:800; color:#22d3ee; letter-spacing:0.02em;">Cadence-AI</div>
   <div style="font-size:1.5em; line-height:1.45; margin-top:6px;">Autoencoder + continuous heads (energy/diffusion/flow) for latent generation. Optimized for patch-level modeling and efficient scaling.</div>
   <div style="margin-top:8px;">
     <a href="https://github.com/DivyamTalwar/Cadence-AI" style="font-size:1.3em; color:#22d3ee; text-decoration:none;">Repo</a>
@@ -29,7 +29,7 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #7c3aed; border-radius:14px; padding:18px;">
-  <div style="font-size:1.5em; font-weight:800; color:#ffffff; letter-spacing:0.02em;">SYNC</div>
+  <div style="font-size:1.5em; font-weight:800; color:#7c3aed; letter-spacing:0.02em;">SYNC</div>
   <div style="font-size:1.5em; line-height:1.45; margin-top:6px;">Gateway → orchestration → agents → LLM APIs for collaborative cognition. Designed for coordinated multi‑agent decision loops and consensus.</div>
   <div style="margin-top:8px;">
     <a href="https://github.com/DivyamTalwar/SYNC" style="font-size:1.3em; color:#7c3aed; text-decoration:none;">Repo</a>
@@ -41,7 +41,7 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #f97316; border-radius:14px; padding:18px;">
-  <div style="font-size:1.5em; font-weight:800; color:#ffffff; letter-spacing:0.02em;">INFINICHUNK</div>
+  <div style="font-size:1.5em; font-weight:800; color:#f97316; letter-spacing:0.02em;">INFINICHUNK</div>
   <div style="font-size:1.5em; line-height:1.45; margin-top:6px;">Generate → Trim → Carryover loop with PPO training and high‑throughput rollouts. Built for long‑context reasoning under fixed window budgets.</div>
   <div style="margin-top:8px;">
     <a href="https://github.com/DivyamTalwar/INFINICHUNK" style="font-size:1.3em; color:#f97316; text-decoration:none;">Repo</a>
@@ -53,7 +53,7 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #10b981; border-radius:14px; padding:18px;">
-  <div style="font-size:1.5em; font-weight:800; color:#ffffff; letter-spacing:0.02em;">OUROBOROS</div>
+  <div style="font-size:1.5em; font-weight:800; color:#10b981; letter-spacing:0.02em;">OUROBOROS</div>
   <div style="font-size:1.5em; line-height:1.45; margin-top:6px;">Delta‑operator residuals with k/β/v branches for selective forgetting & reflection. Enables controlled feature erasure and rewriting in‑place.</div>
   <div style="margin-top:8px;">
     <a href="https://github.com/DivyamTalwar/OUROBOROS" style="font-size:1.3em; color:#10b981; text-decoration:none;">Repo</a>
@@ -65,7 +65,7 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #ec4899; border-radius:14px; padding:18px;">
-  <div style="font-size:1.5em; font-weight:800; color:#ffffff; letter-spacing:0.02em;">SYNAPTIC</div>
+  <div style="font-size:1.5em; font-weight:800; color:#ec4899; letter-spacing:0.02em;">SYNAPTIC</div>
   <div style="font-size:1.5em; line-height:1.45; margin-top:6px;">Fast L‑Module + slow H‑Module synchronized into hierarchical reasoning cycles. Balances local pattern speed with global strategic planning.</div>
   <div style="margin-top:8px;">
     <a href="https://github.com/DivyamTalwar/SYNAPTIC" style="font-size:1.3em; color:#ec4899; text-decoration:none;">Repo</a>
@@ -77,7 +77,7 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #38bdf8; border-radius:14px; padding:18px;">
-  <div style="font-size:1.5em; font-weight:800; color:#ffffff; letter-spacing:0.02em;">BLUEPRINT</div>
+  <div style="font-size:1.5em; font-weight:800; color:#38bdf8; letter-spacing:0.02em;">BLUEPRINT</div>
   <div style="font-size:1.5em; line-height:1.45; margin-top:6px;">Idea → feature selection → architecture graph → code + tests (TDD). Turns specs into production‑ready repos with automated validation.</div>
   <div style="margin-top:8px;">
     <a href="https://github.com/DivyamTalwar/BLUEPRINT" style="font-size:1.3em; color:#38bdf8; text-decoration:none;">Repo</a>
@@ -89,7 +89,7 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #f59e0b; border-radius:14px; padding:18px;">
-  <div style="font-size:1.5em; font-weight:800; color:#ffffff; letter-spacing:0.02em;">AIME</div>
+  <div style="font-size:1.5em; font-weight:800; color:#f59e0b; letter-spacing:0.02em;">AIME</div>
   <div style="font-size:1.5em; line-height:1.45; margin-top:6px;">Memory recall → response → link → evolve for persistent intelligence. Self‑evolving memory graph that improves with every interaction.</div>
   <div style="margin-top:8px;">
     <a href="https://github.com/DivyamTalwar/AIME" style="font-size:1.3em; color:#f59e0b; text-decoration:none;">Repo</a>
@@ -101,7 +101,7 @@
 <tr><td height="12"></td></tr>
 <tr><td>
 <div style="border:2px solid #60a5fa; border-radius:14px; padding:18px;">
-  <div style="font-size:1.5em; font-weight:800; color:#ffffff; letter-spacing:0.02em;">Coming Soon</div>
+  <div style="font-size:1.5em; font-weight:800; color:#60a5fa; letter-spacing:0.02em;">Coming Soon</div>
   <div style="font-size:1.5em; line-height:1.45; margin-top:6px;">The next system is already in motion. Expect a new architecture reveal soon.</div>
   <div style="margin-top:8px;"></div>
   <br/>
