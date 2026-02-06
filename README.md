@@ -16,6 +16,18 @@
 
 <table cellpadding="16" cellspacing="0">
 <tr><td>
+<div style="border:2px solid #06b6d4; border-radius:14px; padding:18px;">
+  <div style="font-size:1.5em; font-weight:800; color:#06b6d4; letter-spacing:0.02em;">MoE-Xtend</div>
+  <div style="font-size:1.5em; line-height:1.45; margin-top:6px;">Context Unbound. Intelligence Unleashed. Long-context MoE transformer spec: routing, GQA, RoPE scaling, KV cache discipline, deterministic decoding.</div>
+  <div style="margin-top:8px;">
+    <a href="https://github.com/DivyamTalwar/MoE-Xtend" style="font-size:1.3em; color:#06b6d4; text-decoration:none;">Repo</a>
+  </div>
+  <br/>
+  <img src="https://github.com/DivyamTalwar/DivyamTalwar/blob/main/assets/arch-moe-xtend.svg?raw=1" width="920" />
+</div>
+</td></tr>
+<tr><td height="12"></td></tr>
+<tr><td>
 <div style="border:2px solid #22d3ee; border-radius:14px; padding:18px;">
   <div style="font-size:1.5em; font-weight:800; color:#22d3ee; letter-spacing:0.02em;">Cadence-AI</div>
   <div style="font-size:1.5em; line-height:1.45; margin-top:6px;">Autoencoder + continuous heads (energy/diffusion/flow) for latent generation. Optimized for patch-level modeling and efficient scaling.</div>
