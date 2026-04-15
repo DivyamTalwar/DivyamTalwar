@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-label="Divyam Talwar — I build the primitives that durable intelligence runs on.">
+  <title>Divyam Talwar — Neural Runtimes</title>
+
+  <!-- Base canvas -->
+  <rect width="1280" height="280" fill="#0d1117"/>
+
+  <!-- Subtle vertical grid (12 guides, ~106px cadence) -->
+  <g stroke="#00FFD1" stroke-opacity="0.025" stroke-width="1">
+    <line x1="106"  y1="0" x2="106"  y2="280"/>
+    <line x1="213"  y1="0" x2="213"  y2="280"/>
+    <line x1="320"  y1="0" x2="320"  y2="280"/>
+    <line x1="426"  y1="0" x2="426"  y2="280"/>
+    <line x1="533"  y1="0" x2="533"  y2="280"/>
+    <line x1="640"  y1="0" x2="640"  y2="280"/>
+    <line x1="746"  y1="0" x2="746"  y2="280"/>
+    <line x1="853"  y1="0" x2="853"  y2="280"/>
+    <line x1="960"  y1="0" x2="960"  y2="280"/>
+    <line x1="1066" y1="0" x2="1066" y2="280"/>
+    <line x1="1173" y1="0" x2="1173" y2="280"/>
+    <line x1="1226" y1="0" x2="1226" y2="280"/>
+  </g>
+
+  <!-- THE NAME -->
+  <text x="48" y="178"
+        font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+        font-size="108" font-weight="900" fill="#e6edf3" letter-spacing="-0.04em">DIVYAM TALWAR</text>
+
+  <!-- Accent rule -->
+  <rect x="48" y="198" width="240" height="2" fill="#00FFD1"/>
+
+  <!-- Tagline (two stacked lines) -->
+  <g font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="16" font-weight="500" letter-spacing="0.06em">
+    <text x="48" y="228" fill="#e6edf3">I DON'T BUILD AGENTS.</text>
+    <text x="48" y="250" fill="#8b949e">I BUILD WHAT AGENTS RUN ON.</text>
+  </g>
+
+  <!-- Right meta block: 2 rows only — vertically centered to name baseline -->
+  <g font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11">
+    <!-- Row 1: FOCUS -->
+    <text x="1024" y="124" fill="#8b949e" font-weight="500" letter-spacing="0.08em" text-anchor="end">FOCUS</text>
+    <text x="1040" y="124" fill="#00FFD1" font-weight="500">━</text>
+    <text x="1232" y="124" fill="#e6edf3" font-weight="600" letter-spacing="0.04em" text-anchor="end">NEURAL RUNTIMES</text>
+
+    <!-- Row 2: DOMAIN -->
+    <text x="1024" y="146" fill="#8b949e" font-weight="500" letter-spacing="0.08em" text-anchor="end">DOMAIN</text>
+    <text x="1040" y="146" fill="#00FFD1" font-weight="500">━</text>
+    <text x="1232" y="146" fill="#e6edf3" font-weight="600" letter-spacing="0.04em" text-anchor="end">MEMORY · STRUCTURE · COMPUTE</text>
+  </g>
+
+  <!-- Terminal prompt glyph (bottom-right) -->
+  <text x="1232" y="256"
+        font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+        font-size="18" font-weight="700" fill="#00FFD1" text-anchor="end">[ ▸ ]</text>
+</svg>

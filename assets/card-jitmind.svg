@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="360" viewBox="0 0 920 360" font-family="'JetBrains Mono', ui-monospace, monospace" role="img" aria-label="JITMIND — just-in-time memory for AI agents">
+  <defs>
+    <marker id="ah" viewBox="0 0 6 6" refX="5.5" refY="3" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 6 3 L 0 6 z" fill="#00FFD1"/>
+    </marker>
+    <marker id="ahd" viewBox="0 0 6 6" refX="5.5" refY="3" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 6 3 L 0 6 z" fill="#00FFD1"/>
+    </marker>
+  </defs>
+
+  <!-- Canvas -->
+  <rect x="0" y="0" width="920" height="360" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="919" height="359" fill="none" stroke="#00FFD1" stroke-width="1"/>
+
+  <!-- Top meta row -->
+  <text x="32" y="44" font-size="14" font-weight="600" fill="#00FFD1" letter-spacing="0.12em">01 · JITMIND</text>
+  <text x="888" y="44" font-size="12" font-weight="500" fill="#8b949e" text-anchor="end">→ /JITMIND</text>
+  <line x1="32" y1="60" x2="888" y2="60" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title + subtitle -->
+  <text x="32" y="108" font-size="26" font-weight="700" fill="#e6edf3" letter-spacing="-0.01em">Just-in-time memory for AI agents.</text>
+  <text x="32" y="138" font-size="13" font-weight="400" fill="#8b949e">Self-editing bi-temporal memory. Hybrid retrieval under drift.</text>
+
+  <!-- 4-node loop -->
+  <!-- PLAN -->
+  <rect x="40" y="190" width="150" height="40" fill="none" stroke="#00FFD1" stroke-width="1"/>
+  <text x="115" y="215" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">PLAN</text>
+  <!-- SEARCH -->
+  <rect x="220" y="190" width="150" height="40" fill="none" stroke="#00FFD1" stroke-width="1"/>
+  <text x="295" y="215" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">SEARCH</text>
+  <!-- INTEGRATE -->
+  <rect x="400" y="190" width="150" height="40" fill="none" stroke="#00FFD1" stroke-width="1"/>
+  <text x="475" y="215" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">INTEGRATE</text>
+  <!-- REFLECT -->
+  <rect x="600" y="190" width="150" height="40" fill="none" stroke="#00FFD1" stroke-width="1"/>
+  <text x="675" y="215" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">REFLECT</text>
+
+  <!-- Forward connector arrows -->
+  <line x1="190" y1="210" x2="220" y2="210" stroke="#00FFD1" stroke-width="1.5" marker-end="url(#ah)"/>
+  <line x1="370" y1="210" x2="400" y2="210" stroke="#00FFD1" stroke-width="1.5" marker-end="url(#ah)"/>
+  <line x1="550" y1="210" x2="600" y2="210" stroke="#00FFD1" stroke-width="1.5" marker-end="url(#ah)"/>
+
+  <!-- Loop-back REFLECT → PLAN -->
+  <path d="M 675 190 C 675 150, 115 150, 115 190" stroke="#00FFD1" stroke-width="1.5" fill="none" marker-end="url(#ahd)"/>
+
+  <!-- Bi-temporal axis -->
+  <text x="460" y="278" font-size="9" fill="#8b949e" text-anchor="middle" letter-spacing="0.1em">BI-TEMPORAL VALIDITY</text>
+  <line x1="40" y1="290" x2="880" y2="290" stroke="#30363d" stroke-width="1"/>
+  <!-- Ticks (6px tall, centered on axis) -->
+  <line x1="80" y1="287" x2="80" y2="293" stroke="#00FFD1" stroke-width="1"/>
+  <line x1="240" y1="287" x2="240" y2="293" stroke="#00FFD1" stroke-width="1"/>
+  <line x1="440" y1="287" x2="440" y2="293" stroke="#00FFD1" stroke-width="1"/>
+  <line x1="640" y1="287" x2="640" y2="293" stroke="#00FFD1" stroke-width="1"/>
+  <line x1="840" y1="287" x2="840" y2="293" stroke="#00FFD1" stroke-width="1"/>
+  <!-- Tick labels -->
+  <text x="80" y="308" font-size="10" fill="#8b949e" text-anchor="middle">t_created</text>
+  <text x="240" y="308" font-size="10" fill="#8b949e" text-anchor="middle">t_observed</text>
+  <text x="440" y="308" font-size="10" fill="#8b949e" text-anchor="middle">t_valid</text>
+  <text x="640" y="308" font-size="10" fill="#8b949e" text-anchor="middle">t_invalid</text>
+  <text x="840" y="308" font-size="10" fill="#8b949e" text-anchor="middle">t_expired</text>
+
+  <!-- Keyword strip -->
+  <text x="460" y="340" font-size="11" fill="#8b949e" text-anchor="middle" letter-spacing="0.1em">BITEMPORAL<tspan fill="#00FFD1">  ·  </tspan>SELF-EDITING<tspan fill="#00FFD1">  ·  </tspan>HYBRID-RETRIEVAL (BM25+DENSE+GRAPH)<tspan fill="#00FFD1">  ·  </tspan>PROVENANCE<tspan fill="#00FFD1">  ·  </tspan>PPR</text>
+</svg>
