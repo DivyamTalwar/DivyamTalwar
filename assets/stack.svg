@@ -1,59 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 440" width="920" height="440" font-family="'JetBrains Mono', ui-monospace, monospace" role="img" aria-label="Technology stack panel">
-  <rect x="0" y="0" width="920" height="440" fill="#0d1117"/>
-  <rect x="0.5" y="0.5" width="919" height="439" fill="none" stroke="#00FFD1" stroke-width="1"/>
-  <rect x="1" y="1" width="918" height="438" fill="none" stroke="#00FFD1" stroke-width="0.5" opacity="0.35"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 480" width="920" height="480"
+     role="img" aria-label="Tech stack: 26 tools across languages, ML/AI, runtime, infra"
+     font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace">
+
+  <rect width="920" height="480" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="919" height="479" fill="none" stroke="#00FFD1" stroke-width="1"/>
 
   <!-- HEADER -->
-  <text x="28" y="38" font-size="14" font-weight="700" fill="#e6edf3" letter-spacing="0.1em">▸ STACK</text>
-  <text x="892" y="38" font-size="11" fill="#8b949e" text-anchor="end" letter-spacing="0.08em">26 TOOLS · 4 DOMAINS</text>
-  <line x1="28" y1="58" x2="892" y2="58" stroke="#30363d" stroke-width="1"/>
+  <text x="32" y="46" font-size="16" font-weight="700" fill="#00FFD1" letter-spacing="0.18em">▸ STACK</text>
+  <text x="888" y="46" font-size="11" fill="#8b949e" text-anchor="end" letter-spacing="0.12em">26 TOOLS · 4 DOMAINS</text>
+  <line x1="32" y1="64" x2="888" y2="64" stroke="#30363d" stroke-width="1"/>
 
-  <!-- ROW 1: LANGUAGES -->
-  <text x="28" y="124" font-size="12" font-weight="600" fill="#e6edf3" letter-spacing="0.14em">LANGUAGES</text>
-  <text x="148" y="124" font-size="12" fill="#00FFD1">━</text>
-  <image href="https://cdn.simpleicons.org/python/00FFD1" x="200" y="104" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/rust/00FFD1" x="244" y="104" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/cplusplus/00FFD1" x="288" y="104" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/typescript/00FFD1" x="332" y="104" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/go/00FFD1" x="376" y="104" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/lua/00FFD1" x="420" y="104" width="32" height="32"/>
-  <text x="200" y="158" font-size="9" fill="#8b949e" letter-spacing="0.08em">PYTHON <tspan fill="#00FFD1">·</tspan> RUST <tspan fill="#00FFD1">·</tspan> C++ <tspan fill="#00FFD1">·</tspan> TYPESCRIPT <tspan fill="#00FFD1">·</tspan> GO <tspan fill="#00FFD1">·</tspan> LUA</text>
-  <line x1="28" y1="168" x2="892" y2="168" stroke="#30363d" stroke-width="1" opacity="0.6"/>
+  <!-- ROW 1 — LANGUAGES -->
+  <text x="32" y="116" font-size="13" font-weight="700" fill="#00FFD1" letter-spacing="0.18em">LANGUAGES</text>
+  <text x="200" y="116" font-size="13" fill="#00FFD1">━━</text>
+  <text x="240" y="116" font-size="14" font-weight="500" fill="#e6edf3" letter-spacing="0.04em">PYTHON<tspan fill="#00FFD1">  ·  </tspan>RUST<tspan fill="#00FFD1">  ·  </tspan>C++<tspan fill="#00FFD1">  ·  </tspan>TYPESCRIPT<tspan fill="#00FFD1">  ·  </tspan>GO<tspan fill="#00FFD1">  ·  </tspan>LUA</text>
+  <line x1="32" y1="148" x2="888" y2="148" stroke="#30363d" stroke-width="1"/>
 
-  <!-- ROW 2: ML · AI -->
-  <text x="28" y="210" font-size="12" font-weight="600" fill="#e6edf3" letter-spacing="0.14em">ML · AI</text>
-  <text x="148" y="210" font-size="12" fill="#00FFD1">━</text>
-  <image href="https://cdn.simpleicons.org/pytorch/00FFD1" x="200" y="190" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/tensorflow/00FFD1" x="244" y="190" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/nvidia/00FFD1" x="288" y="190" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/huggingface/00FFD1" x="332" y="190" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/anthropic/00FFD1" x="376" y="190" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/openaigym/00FFD1" x="420" y="190" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/onnx/00FFD1" x="464" y="190" width="32" height="32"/>
-  <text x="200" y="244" font-size="9" fill="#8b949e" letter-spacing="0.08em">PYTORCH <tspan fill="#00FFD1">·</tspan> TENSORFLOW <tspan fill="#00FFD1">·</tspan> CUDA <tspan fill="#00FFD1">·</tspan> HUGGINGFACE <tspan fill="#00FFD1">·</tspan> ANTHROPIC <tspan fill="#00FFD1">·</tspan> OPENAI <tspan fill="#00FFD1">·</tspan> ONNX</text>
-  <line x1="28" y1="254" x2="892" y2="254" stroke="#30363d" stroke-width="1" opacity="0.6"/>
+  <!-- ROW 2 — ML · AI -->
+  <text x="32" y="200" font-size="13" font-weight="700" fill="#00FFD1" letter-spacing="0.18em">ML · AI</text>
+  <text x="200" y="200" font-size="13" fill="#00FFD1">━━</text>
+  <text x="240" y="186" font-size="14" font-weight="500" fill="#e6edf3" letter-spacing="0.04em">PYTORCH<tspan fill="#00FFD1">  ·  </tspan>TENSORFLOW<tspan fill="#00FFD1">  ·  </tspan>CUDA<tspan fill="#00FFD1">  ·  </tspan>JAX<tspan fill="#00FFD1">  ·  </tspan>TRITON</text>
+  <text x="240" y="214" font-size="14" font-weight="500" fill="#e6edf3" letter-spacing="0.04em">HUGGINGFACE<tspan fill="#00FFD1">  ·  </tspan>ANTHROPIC<tspan fill="#00FFD1">  ·  </tspan>OPENAI<tspan fill="#00FFD1">  ·  </tspan>ONNX</text>
+  <line x1="32" y1="246" x2="888" y2="246" stroke="#30363d" stroke-width="1"/>
 
-  <!-- ROW 3: RUNTIME · SERVE -->
-  <text x="28" y="296" font-size="12" font-weight="600" fill="#e6edf3" letter-spacing="0.14em">RUNTIME · SERVE</text>
-  <text x="175" y="296" font-size="12" fill="#00FFD1">━</text>
-  <image href="https://cdn.simpleicons.org/ray/00FFD1" x="200" y="276" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/docker/00FFD1" x="244" y="276" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/kubernetes/00FFD1" x="288" y="276" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/fastapi/00FFD1" x="332" y="276" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/mlflow/00FFD1" x="376" y="276" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/jupyter/00FFD1" x="420" y="276" width="32" height="32"/>
-  <text x="200" y="330" font-size="9" fill="#8b949e" letter-spacing="0.08em">RAY <tspan fill="#00FFD1">·</tspan> DOCKER <tspan fill="#00FFD1">·</tspan> KUBERNETES <tspan fill="#00FFD1">·</tspan> FASTAPI <tspan fill="#00FFD1">·</tspan> MLFLOW <tspan fill="#00FFD1">·</tspan> JUPYTER</text>
-  <line x1="28" y1="340" x2="892" y2="340" stroke="#30363d" stroke-width="1" opacity="0.6"/>
+  <!-- ROW 3 — RUNTIME · SERVE -->
+  <text x="32" y="298" font-size="13" font-weight="700" fill="#00FFD1" letter-spacing="0.18em">RUNTIME · SERVE</text>
+  <text x="200" y="298" font-size="13" fill="#00FFD1">━━</text>
+  <text x="240" y="284" font-size="14" font-weight="500" fill="#e6edf3" letter-spacing="0.04em">RAY<tspan fill="#00FFD1">  ·  </tspan>DOCKER<tspan fill="#00FFD1">  ·  </tspan>KUBERNETES<tspan fill="#00FFD1">  ·  </tspan>FASTAPI</text>
+  <text x="240" y="312" font-size="14" font-weight="500" fill="#e6edf3" letter-spacing="0.04em">vLLM<tspan fill="#00FFD1">  ·  </tspan>SGLANG<tspan fill="#00FFD1">  ·  </tspan>MLFLOW<tspan fill="#00FFD1">  ·  </tspan>JUPYTER</text>
+  <line x1="32" y1="344" x2="888" y2="344" stroke="#30363d" stroke-width="1"/>
 
-  <!-- ROW 4: INFRA · DATA -->
-  <text x="28" y="382" font-size="12" font-weight="600" fill="#e6edf3" letter-spacing="0.14em">INFRA · DATA</text>
-  <text x="165" y="382" font-size="12" fill="#00FFD1">━</text>
-  <image href="https://cdn.simpleicons.org/terraform/00FFD1" x="200" y="362" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/googlecloud/00FFD1" x="244" y="362" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/postgresql/00FFD1" x="288" y="362" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/redis/00FFD1" x="332" y="362" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/linux/00FFD1" x="376" y="362" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/git/00FFD1" x="420" y="362" width="32" height="32"/>
-  <image href="https://cdn.simpleicons.org/githubactions/00FFD1" x="464" y="362" width="32" height="32"/>
-  <text x="200" y="420" font-size="9" fill="#8b949e" letter-spacing="0.08em">TERRAFORM <tspan fill="#00FFD1">·</tspan> GCP <tspan fill="#00FFD1">·</tspan> POSTGRES <tspan fill="#00FFD1">·</tspan> REDIS <tspan fill="#00FFD1">·</tspan> LINUX <tspan fill="#00FFD1">·</tspan> GIT <tspan fill="#00FFD1">·</tspan> ACTIONS</text>
+  <!-- ROW 4 — INFRA · DATA -->
+  <text x="32" y="396" font-size="13" font-weight="700" fill="#00FFD1" letter-spacing="0.18em">INFRA · DATA</text>
+  <text x="200" y="396" font-size="13" fill="#00FFD1">━━</text>
+  <text x="240" y="382" font-size="14" font-weight="500" fill="#e6edf3" letter-spacing="0.04em">TERRAFORM<tspan fill="#00FFD1">  ·  </tspan>GCP<tspan fill="#00FFD1">  ·  </tspan>AWS<tspan fill="#00FFD1">  ·  </tspan>POSTGRES<tspan fill="#00FFD1">  ·  </tspan>REDIS</text>
+  <text x="240" y="410" font-size="14" font-weight="500" fill="#e6edf3" letter-spacing="0.04em">LINUX<tspan fill="#00FFD1">  ·  </tspan>GIT<tspan fill="#00FFD1">  ·  </tspan>GITHUB ACTIONS<tspan fill="#00FFD1">  ·  </tspan>DOCKER COMPOSE</text>
+
+  <text x="32" y="458" font-size="9" fill="#8b949e" letter-spacing="0.16em">SELF-REPORTED · WEIGHTED BY ACTIVE USE · v2026.04</text>
+  <text x="888" y="458" font-size="11" fill="#00FFD1" text-anchor="end" font-weight="700">[ ▸ ]</text>
 </svg>
