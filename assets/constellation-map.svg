@@ -68,7 +68,7 @@
   </g>
 
   <!-- Labels -->
-  <g font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="18" fill="#e6edf3" opacity="0.9">
+  <g font-family="'Segoe UI', 'Helvetica', 'Arial', sans-serif" font-size="18" fill="#fff0e0" opacity="0.9">
     <text x="220" y="70" text-anchor="middle">Cadence-AI</text>
     <text x="520" y="120" text-anchor="middle">SYNC</text>
     <text x="860" y="90" text-anchor="middle">INFINICHUNK</text>

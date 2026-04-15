@@ -1,120 +1,120 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 360" width="920" height="360" font-family="'JetBrains Mono', ui-monospace, monospace">
   <defs>
     <marker id="ah-accent" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M0,0 L10,5 L0,10 Z" fill="#00FFD1"/>
+      <path d="M0,0 L10,5 L0,10 Z" fill="#FF8C42"/>
     </marker>
   </defs>
 
   <!-- Background -->
-  <rect width="920" height="360" fill="#0d1117"/>
+  <rect width="920" height="360" fill="#100a05"/>
 
   <!-- Inset outer border -->
-  <rect x="0.5" y="0.5" width="919" height="359" fill="none" stroke="#00FFD1" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="919" height="359" fill="none" stroke="#FF8C42" stroke-width="1"/>
 
   <!-- 1. Top-left label -->
-  <text x="32" y="44" font-size="14" font-weight="600" fill="#00FFD1" letter-spacing="0.12em">03 · MoE-XTEND</text>
+  <text x="32" y="44" font-size="14" font-weight="600" fill="#FF8C42" letter-spacing="0.12em">03 · MoE-XTEND</text>
 
   <!-- 2. Top-right CTA -->
-  <text x="888" y="44" text-anchor="end" font-size="12" fill="#8b949e">→ /MoE-Xtend</text>
+  <text x="888" y="44" text-anchor="end" font-size="12" fill="#a09080">→ /MoE-Xtend</text>
 
   <!-- 3. Rule -->
-  <line x1="32" y1="60" x2="888" y2="60" stroke="#30363d" stroke-width="1"/>
+  <line x1="32" y1="60" x2="888" y2="60" stroke="#3a2510" stroke-width="1"/>
 
   <!-- 4. Title -->
-  <text x="32" y="108" font-size="26" font-weight="700" fill="#e6edf3" letter-spacing="-0.01em">Context unbound. Intelligence unleashed.</text>
+  <text x="32" y="108" font-size="26" font-weight="700" fill="#fff0e0" letter-spacing="-0.01em">Context unbound. Intelligence unleashed.</text>
 
   <!-- 5. Subtitle -->
-  <text x="32" y="138" font-size="13" font-weight="400" fill="#8b949e">Long-context sparse mixture-of-experts. GQA, RoPE scaling, deterministic decode.</text>
+  <text x="32" y="138" font-size="13" font-weight="400" fill="#a09080">Long-context sparse mixture-of-experts. GQA, RoPE scaling, deterministic decode.</text>
 
   <!-- 6. MoE Routing Diagram -->
 
   <!-- Input token -->
-  <rect x="40" y="205" width="70" height="30" fill="none" stroke="#00FFD1" stroke-width="1"/>
-  <text x="75" y="224" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">x_t</text>
-  <text x="75" y="250" font-size="9" fill="#8b949e" text-anchor="middle" letter-spacing="0.1em">INPUT</text>
+  <rect x="40" y="205" width="70" height="30" fill="none" stroke="#FF8C42" stroke-width="1"/>
+  <text x="75" y="224" font-size="13" font-weight="600" fill="#fff0e0" text-anchor="middle">x_t</text>
+  <text x="75" y="250" font-size="9" fill="#a09080" text-anchor="middle" letter-spacing="0.1em">INPUT</text>
 
   <!-- Router -->
-  <circle cx="200" cy="220" r="22" fill="none" stroke="#00FFD1" stroke-width="1.5"/>
-  <text x="200" y="225" font-size="15" font-weight="700" fill="#00FFD1" text-anchor="middle">R</text>
-  <text x="200" y="256" font-size="9" fill="#8b949e" text-anchor="middle" letter-spacing="0.1em">TOP-K ROUTER</text>
+  <circle cx="200" cy="220" r="22" fill="none" stroke="#FF8C42" stroke-width="1.5"/>
+  <text x="200" y="225" font-size="15" font-weight="700" fill="#FF8C42" text-anchor="middle">R</text>
+  <text x="200" y="256" font-size="9" fill="#a09080" text-anchor="middle" letter-spacing="0.1em">TOP-K ROUTER</text>
 
   <!-- Input -> Router connector -->
-  <line x1="110" y1="220" x2="178" y2="220" stroke="#00FFD1" stroke-width="1.5" marker-end="url(#ah-accent)"/>
+  <line x1="110" y1="220" x2="178" y2="220" stroke="#FF8C42" stroke-width="1.5" marker-end="url(#ah-accent)"/>
 
   <!-- Router -> Experts candidate connections (thin muted) -->
   <!-- col1 experts left edges at x=380, col2 at x=480 -->
   <!-- row y-centers: 181, 207, 233, 259 -->
-  <line x1="222" y1="220" x2="380" y2="181" stroke="#30363d" stroke-width="0.8"/>
-  <line x1="222" y1="220" x2="380" y2="207" stroke="#30363d" stroke-width="0.8"/>
-  <line x1="222" y1="220" x2="380" y2="233" stroke="#30363d" stroke-width="0.8"/>
-  <line x1="222" y1="220" x2="380" y2="259" stroke="#30363d" stroke-width="0.8"/>
-  <line x1="222" y1="220" x2="480" y2="181" stroke="#30363d" stroke-width="0.8"/>
-  <line x1="222" y1="220" x2="480" y2="207" stroke="#30363d" stroke-width="0.8"/>
-  <line x1="222" y1="220" x2="480" y2="233" stroke="#30363d" stroke-width="0.8"/>
-  <line x1="222" y1="220" x2="480" y2="259" stroke="#30363d" stroke-width="0.8"/>
+  <line x1="222" y1="220" x2="380" y2="181" stroke="#3a2510" stroke-width="0.8"/>
+  <line x1="222" y1="220" x2="380" y2="207" stroke="#3a2510" stroke-width="0.8"/>
+  <line x1="222" y1="220" x2="380" y2="233" stroke="#3a2510" stroke-width="0.8"/>
+  <line x1="222" y1="220" x2="380" y2="259" stroke="#3a2510" stroke-width="0.8"/>
+  <line x1="222" y1="220" x2="480" y2="181" stroke="#3a2510" stroke-width="0.8"/>
+  <line x1="222" y1="220" x2="480" y2="207" stroke="#3a2510" stroke-width="0.8"/>
+  <line x1="222" y1="220" x2="480" y2="233" stroke="#3a2510" stroke-width="0.8"/>
+  <line x1="222" y1="220" x2="480" y2="259" stroke="#3a2510" stroke-width="0.8"/>
 
   <!-- Experts column 1 (x=380..460) -->
-  <rect x="380" y="170" width="80" height="22" fill="none" stroke="#30363d" stroke-width="1"/>
-  <text x="420" y="185" font-size="11" fill="#8b949e" text-anchor="middle">E1</text>
+  <rect x="380" y="170" width="80" height="22" fill="none" stroke="#3a2510" stroke-width="1"/>
+  <text x="420" y="185" font-size="11" fill="#a09080" text-anchor="middle">E1</text>
 
-  <rect x="380" y="196" width="80" height="22" fill="none" stroke="#30363d" stroke-width="1"/>
-  <text x="420" y="211" font-size="11" fill="#8b949e" text-anchor="middle">E2</text>
+  <rect x="380" y="196" width="80" height="22" fill="none" stroke="#3a2510" stroke-width="1"/>
+  <text x="420" y="211" font-size="11" fill="#a09080" text-anchor="middle">E2</text>
 
   <!-- E3 (highlighted) -->
-  <rect x="380" y="222" width="80" height="22" fill="none" stroke="#00FFD1" stroke-width="1.5"/>
-  <text x="420" y="237" font-size="11" fill="#e6edf3" text-anchor="middle">E3</text>
+  <rect x="380" y="222" width="80" height="22" fill="none" stroke="#FF8C42" stroke-width="1.5"/>
+  <text x="420" y="237" font-size="11" fill="#fff0e0" text-anchor="middle">E3</text>
 
-  <rect x="380" y="248" width="80" height="22" fill="none" stroke="#30363d" stroke-width="1"/>
-  <text x="420" y="263" font-size="11" fill="#8b949e" text-anchor="middle">E4</text>
+  <rect x="380" y="248" width="80" height="22" fill="none" stroke="#3a2510" stroke-width="1"/>
+  <text x="420" y="263" font-size="11" fill="#a09080" text-anchor="middle">E4</text>
 
   <!-- Experts column 2 (x=480..560) -->
-  <rect x="480" y="170" width="80" height="22" fill="none" stroke="#30363d" stroke-width="1"/>
-  <text x="520" y="185" font-size="11" fill="#8b949e" text-anchor="middle">E5</text>
+  <rect x="480" y="170" width="80" height="22" fill="none" stroke="#3a2510" stroke-width="1"/>
+  <text x="520" y="185" font-size="11" fill="#a09080" text-anchor="middle">E5</text>
 
   <!-- E6 (highlighted) -->
-  <rect x="480" y="196" width="80" height="22" fill="none" stroke="#00FFD1" stroke-width="1.5"/>
-  <text x="520" y="211" font-size="11" fill="#e6edf3" text-anchor="middle">E6</text>
+  <rect x="480" y="196" width="80" height="22" fill="none" stroke="#FF8C42" stroke-width="1.5"/>
+  <text x="520" y="211" font-size="11" fill="#fff0e0" text-anchor="middle">E6</text>
 
-  <rect x="480" y="222" width="80" height="22" fill="none" stroke="#30363d" stroke-width="1"/>
-  <text x="520" y="237" font-size="11" fill="#8b949e" text-anchor="middle">E7</text>
+  <rect x="480" y="222" width="80" height="22" fill="none" stroke="#3a2510" stroke-width="1"/>
+  <text x="520" y="237" font-size="11" fill="#a09080" text-anchor="middle">E7</text>
 
-  <rect x="480" y="248" width="80" height="22" fill="none" stroke="#30363d" stroke-width="1"/>
-  <text x="520" y="263" font-size="11" fill="#8b949e" text-anchor="middle">E8</text>
+  <rect x="480" y="248" width="80" height="22" fill="none" stroke="#3a2510" stroke-width="1"/>
+  <text x="520" y="263" font-size="11" fill="#a09080" text-anchor="middle">E8</text>
 
   <!-- Active paths from highlighted experts to output -->
-  <line x1="460" y1="233" x2="620" y2="220" stroke="#00FFD1" stroke-width="1.5" marker-end="url(#ah-accent)"/>
-  <line x1="560" y1="207" x2="620" y2="220" stroke="#00FFD1" stroke-width="1.5" marker-end="url(#ah-accent)"/>
+  <line x1="460" y1="233" x2="620" y2="220" stroke="#FF8C42" stroke-width="1.5" marker-end="url(#ah-accent)"/>
+  <line x1="560" y1="207" x2="620" y2="220" stroke="#FF8C42" stroke-width="1.5" marker-end="url(#ah-accent)"/>
 
   <!-- Output -->
-  <rect x="620" y="205" width="70" height="30" fill="none" stroke="#00FFD1" stroke-width="1"/>
-  <text x="655" y="224" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">y_t</text>
-  <text x="655" y="250" font-size="9" fill="#8b949e" text-anchor="middle" letter-spacing="0.1em">OUTPUT</text>
+  <rect x="620" y="205" width="70" height="30" fill="none" stroke="#FF8C42" stroke-width="1"/>
+  <text x="655" y="224" font-size="13" font-weight="600" fill="#fff0e0" text-anchor="middle">y_t</text>
+  <text x="655" y="250" font-size="9" fill="#a09080" text-anchor="middle" letter-spacing="0.1em">OUTPUT</text>
 
   <!-- 7. RoPE scaling axis -->
-  <text x="460" y="278" font-size="9" fill="#8b949e" text-anchor="middle" letter-spacing="0.1em">ROPE POSITION SCALING</text>
+  <text x="460" y="278" font-size="9" fill="#a09080" text-anchor="middle" letter-spacing="0.1em">ROPE POSITION SCALING</text>
 
   <!-- Extended-zone accent bar (behind axis line) -->
-  <rect x="560" y="287" width="320" height="2" fill="#00FFD1" opacity="0.4"/>
+  <rect x="560" y="287" width="320" height="2" fill="#FF8C42" opacity="0.4"/>
 
   <!-- Axis line -->
-  <line x1="40" y1="290" x2="880" y2="290" stroke="#30363d" stroke-width="1"/>
+  <line x1="40" y1="290" x2="880" y2="290" stroke="#3a2510" stroke-width="1"/>
 
   <!-- Ticks (muted) -->
-  <line x1="40" y1="287" x2="40" y2="293" stroke="#30363d" stroke-width="1"/>
-  <line x1="200" y1="287" x2="200" y2="293" stroke="#30363d" stroke-width="1"/>
-  <line x1="360" y1="287" x2="360" y2="293" stroke="#30363d" stroke-width="1"/>
+  <line x1="40" y1="287" x2="40" y2="293" stroke="#3a2510" stroke-width="1"/>
+  <line x1="200" y1="287" x2="200" y2="293" stroke="#3a2510" stroke-width="1"/>
+  <line x1="360" y1="287" x2="360" y2="293" stroke="#3a2510" stroke-width="1"/>
 
   <!-- Ticks (extended range, accent) -->
-  <line x1="560" y1="287" x2="560" y2="293" stroke="#00FFD1" stroke-width="2"/>
-  <line x1="880" y1="287" x2="880" y2="293" stroke="#00FFD1" stroke-width="2"/>
+  <line x1="560" y1="287" x2="560" y2="293" stroke="#FF8C42" stroke-width="2"/>
+  <line x1="880" y1="287" x2="880" y2="293" stroke="#FF8C42" stroke-width="2"/>
 
   <!-- Tick labels -->
-  <text x="40" y="308" font-size="11" fill="#8b949e" text-anchor="middle">0</text>
-  <text x="200" y="308" font-size="11" fill="#8b949e" text-anchor="middle">8K</text>
-  <text x="360" y="308" font-size="11" fill="#8b949e" text-anchor="middle">32K</text>
-  <text x="560" y="308" font-size="11" fill="#8b949e" text-anchor="middle">128K</text>
-  <text x="880" y="308" font-size="11" fill="#8b949e" text-anchor="middle">1M</text>
+  <text x="40" y="308" font-size="11" fill="#a09080" text-anchor="middle">0</text>
+  <text x="200" y="308" font-size="11" fill="#a09080" text-anchor="middle">8K</text>
+  <text x="360" y="308" font-size="11" fill="#a09080" text-anchor="middle">32K</text>
+  <text x="560" y="308" font-size="11" fill="#a09080" text-anchor="middle">128K</text>
+  <text x="880" y="308" font-size="11" fill="#a09080" text-anchor="middle">1M</text>
 
   <!-- 8. Keyword strip -->
-  <text x="460" y="340" font-size="11" fill="#8b949e" text-anchor="middle" letter-spacing="0.1em">SPARSE-MoE  <tspan fill="#00FFD1">·</tspan>  TOP-K  <tspan fill="#00FFD1">·</tspan>  GQA  <tspan fill="#00FFD1">·</tspan>  ROPE+YARN  <tspan fill="#00FFD1">·</tspan>  KV-CACHE  <tspan fill="#00FFD1">·</tspan>  DETERMINISTIC-DECODE</text>
+  <text x="460" y="340" font-size="11" fill="#a09080" text-anchor="middle" letter-spacing="0.1em">SPARSE-MoE  <tspan fill="#FF8C42">·</tspan>  TOP-K  <tspan fill="#FF8C42">·</tspan>  GQA  <tspan fill="#FF8C42">·</tspan>  ROPE+YARN  <tspan fill="#FF8C42">·</tspan>  KV-CACHE  <tspan fill="#FF8C42">·</tspan>  DETERMINISTIC-DECODE</text>
 </svg>

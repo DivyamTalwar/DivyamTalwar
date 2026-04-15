@@ -1,6 +1,6 @@
 <!--
   divyamtalwar / divyamtalwar
-  brutalist-minimal · pure black · single accent #00FFD1
+  brutalist-minimal · pure black · single accent #FF8C42
   text speaks for itself.
 -->
 
@@ -10,7 +10,7 @@
 </picture>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=600&color=00FFD1&width=820&lines=%3E+memory+that+doesn%27t+rot.;%3E+structure+that+doesn%27t+lie.;%3E+compute+that+doesn%27t+melt." alt="manifesto"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=600&color=FF8C42&width=820&lines=%3E+memory+that+doesn%27t+rot.;%3E+structure+that+doesn%27t+lie.;%3E+compute+that+doesn%27t+melt." alt="manifesto"/>
 </p>
 
 ---
@@ -22,10 +22,10 @@
 ### **FLAGSHIP · 01** &nbsp;━━&nbsp; **MEMORY SUBSTRATE**
 
 <p>
-  <img src="https://img.shields.io/badge/-BI--TEMPORAL-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
-  <img src="https://img.shields.io/badge/-HYBRID%20RETRIEVAL-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
-  <img src="https://img.shields.io/badge/-SELF--EDITING-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
-  <img src="https://img.shields.io/badge/-PROVENANCE--AWARE-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
+  <img src="https://img.shields.io/badge/-BI--TEMPORAL-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
+  <img src="https://img.shields.io/badge/-HYBRID%20RETRIEVAL-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
+  <img src="https://img.shields.io/badge/-SELF--EDITING-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
+  <img src="https://img.shields.io/badge/-PROVENANCE--AWARE-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
 </p>
 
 <a href="https://github.com/DivyamTalwar/JITMIND">
@@ -39,11 +39,11 @@
 ### **FLAGSHIP · 02** &nbsp;━━&nbsp; **STRUCTURE RUNTIME**
 
 <p>
-  <img src="https://img.shields.io/badge/-CODEBASE--OS-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
-  <img src="https://img.shields.io/badge/-28%20LANGUAGES-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
-  <img src="https://img.shields.io/badge/-30%2B%20DETECTORS-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
-  <img src="https://img.shields.io/badge/-AI%20CONTEXT-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
-  <img src="https://img.shields.io/badge/-CI--GATED-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
+  <img src="https://img.shields.io/badge/-CODEBASE--OS-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
+  <img src="https://img.shields.io/badge/-28%20LANGUAGES-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
+  <img src="https://img.shields.io/badge/-30%2B%20DETECTORS-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
+  <img src="https://img.shields.io/badge/-AI%20CONTEXT-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
+  <img src="https://img.shields.io/badge/-CI--GATED-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
 </p>
 
 <a href="https://github.com/DivyamTalwar/STRUCTORIUM">
@@ -57,11 +57,11 @@
 ### **FLAGSHIP · 03** &nbsp;━━&nbsp; **COMPUTE RUNTIME**
 
 <p>
-  <img src="https://img.shields.io/badge/-SPARSE%20MoE-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
-  <img src="https://img.shields.io/badge/-GQA-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
-  <img src="https://img.shields.io/badge/-ROPE%2BYARN-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
-  <img src="https://img.shields.io/badge/-1M%20CONTEXT-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
-  <img src="https://img.shields.io/badge/-DETERMINISTIC%20DECODE-0d1117?style=for-the-badge&labelColor=00FFD1&color=0d1117" />
+  <img src="https://img.shields.io/badge/-SPARSE%20MoE-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
+  <img src="https://img.shields.io/badge/-GQA-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
+  <img src="https://img.shields.io/badge/-ROPE%2BYARN-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
+  <img src="https://img.shields.io/badge/-1M%20CONTEXT-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
+  <img src="https://img.shields.io/badge/-DETERMINISTIC%20DECODE-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
 </p>
 
 <a href="https://github.com/DivyamTalwar/MoE-Xtend">
@@ -102,10 +102,10 @@
 > **Reflective memory engine for dialogue agents.** Hierarchical memory tiers fused with reflective compression and multi-modal embedding heads. Effectively-infinite recall, zero retrieval latency, 98% test coverage. The memory layer that makes assistants feel like they actually know you across sessions.
 
 <p>
-  <img src="https://img.shields.io/badge/-PYTORCH%202.2%2B-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
-  <img src="https://img.shields.io/badge/-CUDA%2012.0%2B-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
-  <img src="https://img.shields.io/badge/-MULTI--MODAL-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
-  <img src="https://img.shields.io/badge/-98%25%20COVERAGE-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
+  <img src="https://img.shields.io/badge/-PYTORCH%202.2%2B-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
+  <img src="https://img.shields.io/badge/-CUDA%2012.0%2B-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
+  <img src="https://img.shields.io/badge/-MULTI--MODAL-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
+  <img src="https://img.shields.io/badge/-98%25%20COVERAGE-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
 </p>
 
 <br/>
@@ -115,10 +115,10 @@
 > **Continuous vector generation over K-token patches.** Replaces token-by-token sampling with continuous heads (energy / diffusion / flow) operating on patches. Likelihood-free latent-space training scales semantic bandwidth past what autoregressive decoding can carry. Generation reframed as a continuous process, not a discrete one.
 
 <p>
-  <img src="https://img.shields.io/badge/-AUTOENCODER-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
-  <img src="https://img.shields.io/badge/-ENERGY%20HEAD-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
-  <img src="https://img.shields.io/badge/-DIFFUSION%20HEAD-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
-  <img src="https://img.shields.io/badge/-FLOW%20HEAD-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
+  <img src="https://img.shields.io/badge/-AUTOENCODER-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
+  <img src="https://img.shields.io/badge/-ENERGY%20HEAD-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
+  <img src="https://img.shields.io/badge/-DIFFUSION%20HEAD-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
+  <img src="https://img.shields.io/badge/-FLOW%20HEAD-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
 </p>
 
 <br/>
@@ -128,10 +128,10 @@
 > **Multi-agent orchestration with neural cognitive-gap detection.** Gateway → orchestrator → agent pod → LLM APIs, with a CKM (cognitive knowledge model) tracking every participant's mental state. An RL policy detects and closes cognitive gaps before consensus drifts. The conductor that keeps a pod of agents on the same page.
 
 <p>
-  <img src="https://img.shields.io/badge/-CKM-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
-  <img src="https://img.shields.io/badge/-RL%20POLICY-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
-  <img src="https://img.shields.io/badge/-MULTI--AGENT-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
-  <img src="https://img.shields.io/badge/-CONSENSUS-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
+  <img src="https://img.shields.io/badge/-CKM-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
+  <img src="https://img.shields.io/badge/-RL%20POLICY-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
+  <img src="https://img.shields.io/badge/-MULTI--AGENT-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
+  <img src="https://img.shields.io/badge/-CONSENSUS-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
 </p>
 
 <br/>
@@ -141,9 +141,9 @@
 > **Geometric residual networks with learned forget · erase · reflect.** Standard residuals accumulate signal indefinitely, drowning what matters. OUROBOROS prunes representational noise at the spectral level under learned control, keeping deep networks honest. Networks that forget on purpose.
 
 <p>
-  <img src="https://img.shields.io/badge/-SPECTRAL%20CONTROL-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
-  <img src="https://img.shields.io/badge/-GEOMETRIC%20RESNET-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
-  <img src="https://img.shields.io/badge/-LEARNED%20FORGET-0d1117?style=flat-square&labelColor=00FFD1&color=0d1117"/>
+  <img src="https://img.shields.io/badge/-SPECTRAL%20CONTROL-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
+  <img src="https://img.shields.io/badge/-GEOMETRIC%20RESNET-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
+  <img src="https://img.shields.io/badge/-LEARNED%20FORGET-100a05?style=flat-square&labelColor=FF8C42&color=100a05"/>
 </p>
 
 ---
@@ -153,7 +153,7 @@
 > **THREE LAYERS. ONE STACK.** &nbsp;━&nbsp; how the primitives compose into a single runtime.
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'background':'#0d1117','primaryColor':'#0d1117','primaryBorderColor':'#00FFD1','primaryTextColor':'#e6edf3','lineColor':'#00FFD1','secondaryColor':'#161b22','tertiaryColor':'#0d1117','clusterBkg':'#0d1117','clusterBorder':'#00FFD1','fontFamily':'JetBrains Mono, ui-monospace, monospace','fontSize':'15px'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'background':'#100a05','primaryColor':'#100a05','primaryBorderColor':'#FF8C42','primaryTextColor':'#fff0e0','lineColor':'#FF8C42','secondaryColor':'#1a1208','tertiaryColor':'#100a05','clusterBkg':'#100a05','clusterBorder':'#FF8C42','fontFamily':'JetBrains Mono, ui-monospace, monospace','fontSize':'15px'}}}%%
 flowchart LR
   subgraph MEMORY[**MEMORY LAYER**]
     direction TB
@@ -178,7 +178,7 @@ flowchart LR
   MEMORY ==>|grounds| REASONING
   REASONING ==>|powers| RUNTIME
   STRUCTORIUM -.gates.-> BLUEPRINT
-  classDef def fill:#0d1117,stroke:#00FFD1,stroke-width:1px,color:#e6edf3;
+  classDef def fill:#100a05,stroke:#FF8C42,stroke-width:1px,color:#fff0e0;
   class JITMIND,AIME,MEMORIA,SYNAPTIC,INFINICHUNK,MOE,CADENCE,STRUCTORIUM,BLUEPRINT,SYNC,OUROBOROS def;
 ```
 
@@ -211,12 +211,12 @@ flowchart LR
 ## ▸&nbsp;&nbsp;TELEMETRY
 
 <p align="left">
-  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DivyamTalwar&show_icons=true&theme=github_dark&hide_border=false&border_color=00FFD1&bg_color=0d1117&icon_color=00FFD1&title_color=00FFD1&text_color=e6edf3&include_all_commits=true&count_private=true&hide=issues" alt="stats"/>
+  <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DivyamTalwar&show_icons=true&theme=github_dark&hide_border=false&border_color=FF8C42&bg_color=100a05&icon_color=FF8C42&title_color=FF8C42&text_color=fff0e0&include_all_commits=true&count_private=true&hide=issues" alt="stats"/>
   <img height="195" src="assets/polyglot.svg" alt="polyglot — 8 languages"/>
 </p>
 
 <p align="left">
-  <img height="195" src="https://streak-stats.demolab.com?user=DivyamTalwar&theme=github-dark-blue&hide_border=false&border=00FFD1&background=0d1117&ring=00FFD1&fire=00FFD1&currStreakLabel=e6edf3&sideLabels=00FFD1&dates=8b949e" alt="streak"/>
+  <img height="195" src="https://streak-stats.demolab.com?user=DivyamTalwar&theme=github-dark-blue&hide_border=false&border=FF8C42&background=100a05&ring=FF8C42&fire=FF8C42&currStreakLabel=fff0e0&sideLabels=FF8C42&dates=a09080" alt="streak"/>
 </p>
 
 <br/>

@@ -4,80 +4,80 @@
   </style>
 
   <!-- Background -->
-  <rect x="0" y="0" width="920" height="360" fill="#0d1117"/>
+  <rect x="0" y="0" width="920" height="360" fill="#100a05"/>
 
   <!-- Outer border: 1px stroke inset 0.5px -->
-  <rect x="0.5" y="0.5" width="919" height="359" fill="none" stroke="#00FFD1" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="919" height="359" fill="none" stroke="#FF8C42" stroke-width="1"/>
 
   <!-- 1. Label top-left -->
-  <text x="32" y="44" class="mono" font-size="14" font-weight="600" fill="#00FFD1" letter-spacing="0.12em">02 · STRUCTORIUM</text>
+  <text x="32" y="44" class="mono" font-size="14" font-weight="600" fill="#FF8C42" letter-spacing="0.12em">02 · STRUCTORIUM</text>
 
   <!-- 2. CTA top-right -->
-  <text x="888" y="44" class="mono" font-size="12" fill="#8b949e" text-anchor="end">→ /STRUCTORIUM</text>
+  <text x="888" y="44" class="mono" font-size="12" fill="#a09080" text-anchor="end">→ /STRUCTORIUM</text>
 
   <!-- 3. Rule -->
-  <line x1="32" y1="60" x2="888" y2="60" stroke="#30363d" stroke-width="1"/>
+  <line x1="32" y1="60" x2="888" y2="60" stroke="#3a2510" stroke-width="1"/>
 
   <!-- 4. Title -->
-  <text x="32" y="108" class="mono" font-size="26" font-weight="700" fill="#e6edf3" letter-spacing="-0.01em">Architecture. Automatically enforced.</text>
+  <text x="32" y="108" class="mono" font-size="26" font-weight="700" fill="#fff0e0" letter-spacing="-0.01em">Architecture. Automatically enforced.</text>
 
   <!-- 5. Subtitle -->
-  <text x="32" y="138" class="mono" font-size="13" font-weight="400" fill="#8b949e">Codebase quality runtime. Every scan remembers. Every regression is caught.</text>
+  <text x="32" y="138" class="mono" font-size="13" font-weight="400" fill="#a09080">Codebase quality runtime. Every scan remembers. Every regression is caught.</text>
 
   <!-- 6. Pipeline — 5 stages -->
   <!-- SCAN -->
-  <rect x="32" y="180" width="140" height="40" fill="none" stroke="#00FFD1" stroke-width="1"/>
-  <text x="102" y="205" class="mono" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">SCAN</text>
+  <rect x="32" y="180" width="140" height="40" fill="none" stroke="#FF8C42" stroke-width="1"/>
+  <text x="102" y="205" class="mono" font-size="13" font-weight="600" fill="#fff0e0" text-anchor="middle">SCAN</text>
 
   <!-- chevron -->
-  <text x="174" y="205" class="mono" font-size="14" fill="#00FFD1" text-anchor="middle">▸</text>
+  <text x="174" y="205" class="mono" font-size="14" fill="#FF8C42" text-anchor="middle">▸</text>
 
   <!-- RANK -->
-  <rect x="184" y="180" width="140" height="40" fill="none" stroke="#00FFD1" stroke-width="1"/>
-  <text x="254" y="205" class="mono" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">RANK</text>
+  <rect x="184" y="180" width="140" height="40" fill="none" stroke="#FF8C42" stroke-width="1"/>
+  <text x="254" y="205" class="mono" font-size="13" font-weight="600" fill="#fff0e0" text-anchor="middle">RANK</text>
 
-  <text x="326" y="205" class="mono" font-size="14" fill="#00FFD1" text-anchor="middle">▸</text>
+  <text x="326" y="205" class="mono" font-size="14" fill="#FF8C42" text-anchor="middle">▸</text>
 
   <!-- REVIEW -->
-  <rect x="336" y="180" width="140" height="40" fill="none" stroke="#00FFD1" stroke-width="1"/>
-  <text x="406" y="205" class="mono" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">REVIEW</text>
+  <rect x="336" y="180" width="140" height="40" fill="none" stroke="#FF8C42" stroke-width="1"/>
+  <text x="406" y="205" class="mono" font-size="13" font-weight="600" fill="#fff0e0" text-anchor="middle">REVIEW</text>
 
-  <text x="478" y="205" class="mono" font-size="14" fill="#00FFD1" text-anchor="middle">▸</text>
+  <text x="478" y="205" class="mono" font-size="14" fill="#FF8C42" text-anchor="middle">▸</text>
 
   <!-- GATE -->
-  <rect x="488" y="180" width="140" height="40" fill="none" stroke="#00FFD1" stroke-width="1"/>
-  <text x="558" y="205" class="mono" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">GATE</text>
+  <rect x="488" y="180" width="140" height="40" fill="none" stroke="#FF8C42" stroke-width="1"/>
+  <text x="558" y="205" class="mono" font-size="13" font-weight="600" fill="#fff0e0" text-anchor="middle">GATE</text>
 
-  <text x="630" y="205" class="mono" font-size="14" fill="#00FFD1" text-anchor="middle">▸</text>
+  <text x="630" y="205" class="mono" font-size="14" fill="#FF8C42" text-anchor="middle">▸</text>
 
   <!-- SCORE -->
-  <rect x="640" y="180" width="140" height="40" fill="none" stroke="#00FFD1" stroke-width="1"/>
-  <text x="710" y="205" class="mono" font-size="13" font-weight="600" fill="#e6edf3" text-anchor="middle">SCORE</text>
+  <rect x="640" y="180" width="140" height="40" fill="none" stroke="#FF8C42" stroke-width="1"/>
+  <text x="710" y="205" class="mono" font-size="13" font-weight="600" fill="#fff0e0" text-anchor="middle">SCORE</text>
 
   <!-- PR gate visualization: incoming arrow below GATE, blocked -->
   <!-- Arrow shaft from y=275 up toward y=225 at x=558 -->
-  <line x1="558" y1="275" x2="558" y2="225" stroke="#30363d" stroke-width="2"/>
+  <line x1="558" y1="275" x2="558" y2="225" stroke="#3a2510" stroke-width="2"/>
   <!-- Arrowhead pointing up at gate -->
-  <polyline points="552,231 558,225 564,231" fill="none" stroke="#30363d" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"/>
+  <polyline points="552,231 558,225 564,231" fill="none" stroke="#3a2510" stroke-width="2" stroke-linecap="square" stroke-linejoin="miter"/>
   <!-- Block bar (8×22) blocking the arrow — white = unmistakable visual stop without breaking single-accent palette -->
-  <rect x="554" y="230" width="8" height="22" fill="#e6edf3"/>
+  <rect x="554" y="230" width="8" height="22" fill="#fff0e0"/>
   <!-- PR BLOCKED label -->
-  <text x="558" y="295" class="mono" font-size="10" fill="#8b949e" text-anchor="middle">PR BLOCKED</text>
+  <text x="558" y="295" class="mono" font-size="10" fill="#a09080" text-anchor="middle">PR BLOCKED</text>
 
   <!-- MERGE OK indicator (right side) — text-only for brutalist consistency -->
-  <text x="848" y="248" class="mono" font-size="13" font-weight="700" fill="#00FFD1" text-anchor="middle">[ OK ]</text>
-  <text x="848" y="264" class="mono" font-size="10" fill="#8b949e" text-anchor="middle">MERGE OK</text>
+  <text x="848" y="248" class="mono" font-size="13" font-weight="700" fill="#FF8C42" text-anchor="middle">[ OK ]</text>
+  <text x="848" y="264" class="mono" font-size="10" fill="#a09080" text-anchor="middle">MERGE OK</text>
 
   <!-- 7. Metric callouts -->
-  <text x="180" y="290" class="mono" font-size="40" font-weight="900" fill="#00FFD1" letter-spacing="-0.04em" text-anchor="middle">28</text>
-  <text x="180" y="308" class="mono" font-size="10" fill="#8b949e" letter-spacing="0.16em" text-anchor="middle">LANGUAGES</text>
+  <text x="180" y="290" class="mono" font-size="40" font-weight="900" fill="#FF8C42" letter-spacing="-0.04em" text-anchor="middle">28</text>
+  <text x="180" y="308" class="mono" font-size="10" fill="#a09080" letter-spacing="0.16em" text-anchor="middle">LANGUAGES</text>
 
-  <text x="460" y="290" class="mono" font-size="40" font-weight="900" fill="#00FFD1" letter-spacing="-0.04em" text-anchor="middle">30+</text>
-  <text x="460" y="308" class="mono" font-size="10" fill="#8b949e" letter-spacing="0.16em" text-anchor="middle">DETECTORS</text>
+  <text x="460" y="290" class="mono" font-size="40" font-weight="900" fill="#FF8C42" letter-spacing="-0.04em" text-anchor="middle">30+</text>
+  <text x="460" y="308" class="mono" font-size="10" fill="#a09080" letter-spacing="0.16em" text-anchor="middle">DETECTORS</text>
 
-  <text x="740" y="290" class="mono" font-size="40" font-weight="900" fill="#00FFD1" letter-spacing="-0.04em" text-anchor="middle">100%</text>
-  <text x="740" y="308" class="mono" font-size="10" fill="#8b949e" letter-spacing="0.16em" text-anchor="middle">CI-GATED</text>
+  <text x="740" y="290" class="mono" font-size="40" font-weight="900" fill="#FF8C42" letter-spacing="-0.04em" text-anchor="middle">100%</text>
+  <text x="740" y="308" class="mono" font-size="10" fill="#a09080" letter-spacing="0.16em" text-anchor="middle">CI-GATED</text>
 
   <!-- 8. Keyword strip -->
-  <text x="460" y="340" class="mono" font-size="11" fill="#8b949e" letter-spacing="0.1em" text-anchor="middle">CODEBASE-OS<tspan fill="#00FFD1">  ·  </tspan>ANTI-GAMING<tspan fill="#00FFD1">  ·  </tspan>AI-CONTEXT-LAYER<tspan fill="#00FFD1">  ·  </tspan>NEW-CODE-GATE<tspan fill="#00FFD1">  ·  </tspan>PERSISTENT-REVIEW</text>
+  <text x="460" y="340" class="mono" font-size="11" fill="#a09080" letter-spacing="0.1em" text-anchor="middle">CODEBASE-OS<tspan fill="#FF8C42">  ·  </tspan>ANTI-GAMING<tspan fill="#FF8C42">  ·  </tspan>AI-CONTEXT-LAYER<tspan fill="#FF8C42">  ·  </tspan>NEW-CODE-GATE<tspan fill="#FF8C42">  ·  </tspan>PERSISTENT-REVIEW</text>
 </svg>

@@ -24,6 +24,6 @@
   <circle cx="720" cy="120" r="60" stroke="#60a5fa" stroke-width="3" fill="none" opacity="0.6">
     <animate attributeName="r" values="50;80;50" dur="3.8s" repeatCount="indefinite" />
   </circle>
-  <text x="720" y="130" text-anchor="middle" font-family="Segoe UI, Arial" font-size="32" fill="#e6edf3" font-weight="700">COMING SOON</text>
+  <text x="720" y="130" text-anchor="middle" font-family="Segoe UI, Arial" font-size="32" fill="#fff0e0" font-weight="700">COMING SOON</text>
   <text x="720" y="155" text-anchor="middle" font-family="Segoe UI, Arial" font-size="14" fill="#94a3b8">Next system in the pipeline</text>
 </svg>
