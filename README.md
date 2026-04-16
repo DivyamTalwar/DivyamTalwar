@@ -10,7 +10,7 @@
 </picture>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1800&pause=600&color=FF8C42&width=820&lines=%3E+memory+that+doesn%27t+rot.;%3E+structure+that+doesn%27t+lie.;%3E+compute+that+doesn%27t+melt." alt="manifesto"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1800&pause=600&color=FF8C42&width=1000&lines=%3E+memory+that+doesn%27t+rot.;%3E+structure+that+doesn%27t+lie.;%3E+compute+that+doesn%27t+melt." alt="manifesto"/>
 </p>
 
 ---
@@ -32,7 +32,7 @@
   <img src="assets/card-jitmind.svg" width="100%" alt="JITMIND — just-in-time memory for AI agents"/>
 </a>
 
-> **WHY IT MATTERS** &nbsp;━&nbsp; Most agent memory rots silently. JITMIND makes correctness a runtime property, not a hope.
+Most agent memory systems append blindly — stale facts stay active forever, temporal validity is decorative metadata, and retrieval fails silently on real query diversity. **JITMIND treats memory as a runtime, not a feature.** Every fact carries a time signature. Every retrieval is provenance-aware. Every contradiction triggers a self-edit. It fuses BM25 + dense + graph retrieval with personalized PageRank under a plan → search → integrate → reflect loop. Built for assistants that have to stay correct across thousands of sessions and weeks of drift.
 
 <br/>
 
@@ -50,7 +50,7 @@
   <img src="assets/card-structorium.svg" width="100%" alt="STRUCTORIUM — architecture, automatically enforced"/>
 </a>
 
-> **WHY IT MATTERS** &nbsp;━&nbsp; Linters find issues. Structorium remembers them, ranks them, and blocks the next one before it ships.
+Most code quality tools find issues. **Structorium remembers them.** Every scan builds on the last, every fix is measured against a persistent quality score with anti-gaming mechanics, and every regression is caught at the gate before it ships. 28 languages, 30+ detectors, an AI context layer that gives reviewers exactly what they need, and a new-code gate that blocks PRs that would lower the bar. This isn't a linter — it's the operating system for codebase quality, built from the ground up for AI coding agents.
 
 <br/>
 
@@ -68,7 +68,7 @@
   <img src="assets/card-moe-xtend.svg" width="100%" alt="MoE-Xtend — context unbound, intelligence unleashed"/>
 </a>
 
-> **WHY IT MATTERS** &nbsp;━&nbsp; Long context isn't a config flag. It's an architecture decision. MoE-Xtend makes that decision honestly.
+Long context isn't a config flag — it's a math problem. **MoE-Xtend ships the full spec**: a sparse mixture-of-experts transformer with grouped-query attention, RoPE+YaRN scaling that holds at 1M tokens, KV-cache discipline that doesn't melt under load, and deterministic decode that produces the same output every time. Top-K expert routing keeps compute sparse while capacity stays dense. Built for the moments when "just increase context_length" stops working and you need the architecture to actually respect the math.
 
 ---
 
