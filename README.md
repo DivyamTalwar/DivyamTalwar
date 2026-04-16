@@ -19,7 +19,7 @@
 
 <br/>
 
-### **FLAGSHIP · 01** &nbsp;━━&nbsp; **MEMORY SUBSTRATE**
+## **▸ FLAGSHIP · 01** &nbsp;━━━━&nbsp; **MEMORY SUBSTRATE**
 
 <p>
   <img src="https://img.shields.io/badge/-BI--TEMPORAL-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
@@ -32,11 +32,17 @@
   <img src="assets/card-jitmind.svg" width="100%" alt="JITMIND — just-in-time memory for AI agents"/>
 </a>
 
-Most agent memory systems append blindly — stale facts stay active forever, temporal validity is decorative metadata, and retrieval fails silently on real query diversity. **JITMIND treats memory as a runtime, not a feature.** Every fact carries a time signature. Every retrieval is provenance-aware. Every contradiction triggers a self-edit. It fuses BM25 + dense + graph retrieval with personalized PageRank under a plan → search → integrate → reflect loop. Built for assistants that have to stay correct across thousands of sessions and weeks of drift.
+**Most agent memory rots. JITMIND doesn't let it.**
+
+&nbsp;&nbsp;▸ &nbsp; Every fact carries a **time signature** — bi-temporal validity with 5 lifecycle axes<br/>
+&nbsp;&nbsp;▸ &nbsp; Every retrieval is **provenance-aware** — BM25 + dense + graph fusion with personalized PageRank<br/>
+&nbsp;&nbsp;▸ &nbsp; Every contradiction triggers a **self-edit** — ADD / UPDATE / DELETE / NOOP lifecycle ops
+
+Built under a `plan → search → integrate → reflect` loop. Designed for assistants that stay correct across **thousands of sessions** and **weeks of drift**.
 
 <br/>
 
-### **FLAGSHIP · 02** &nbsp;━━&nbsp; **STRUCTURE RUNTIME**
+## **▸ FLAGSHIP · 02** &nbsp;━━━━&nbsp; **STRUCTURE RUNTIME**
 
 <p>
   <img src="https://img.shields.io/badge/-CODEBASE--OS-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
@@ -50,11 +56,17 @@ Most agent memory systems append blindly — stale facts stay active forever, te
   <img src="assets/card-structorium.svg" width="100%" alt="STRUCTORIUM — architecture, automatically enforced"/>
 </a>
 
-Most code quality tools find issues. **Structorium remembers them.** Every scan builds on the last, every fix is measured against a persistent quality score with anti-gaming mechanics, and every regression is caught at the gate before it ships. 28 languages, 30+ detectors, an AI context layer that gives reviewers exactly what they need, and a new-code gate that blocks PRs that would lower the bar. This isn't a linter — it's the operating system for codebase quality, built from the ground up for AI coding agents.
+**Most tools find issues. Structorium remembers them.**
+
+&nbsp;&nbsp;▸ &nbsp; Every scan **builds on the last** — persistent quality score with anti-gaming mechanics<br/>
+&nbsp;&nbsp;▸ &nbsp; Every fix is **measured** — delta tracking across **30+ detectors**, **28 languages**<br/>
+&nbsp;&nbsp;▸ &nbsp; Every regression is **caught at the gate** — new-code gate blocks PRs that lower the bar
+
+An AI context layer gives reviewers exactly what they need. This isn't a linter — it's the **operating system for codebase quality**, built from the ground up for AI coding agents.
 
 <br/>
 
-### **FLAGSHIP · 03** &nbsp;━━&nbsp; **COMPUTE RUNTIME**
+## **▸ FLAGSHIP · 03** &nbsp;━━━━&nbsp; **COMPUTE RUNTIME**
 
 <p>
   <img src="https://img.shields.io/badge/-SPARSE%20MoE-100a05?style=for-the-badge&labelColor=FF8C42&color=100a05" />
@@ -68,7 +80,14 @@ Most code quality tools find issues. **Structorium remembers them.** Every scan 
   <img src="assets/card-moe-xtend.svg" width="100%" alt="MoE-Xtend — context unbound, intelligence unleashed"/>
 </a>
 
-Long context isn't a config flag — it's a math problem. **MoE-Xtend ships the full spec**: a sparse mixture-of-experts transformer with grouped-query attention, RoPE+YaRN scaling that holds at 1M tokens, KV-cache discipline that doesn't melt under load, and deterministic decode that produces the same output every time. Top-K expert routing keeps compute sparse while capacity stays dense. Built for the moments when "just increase context_length" stops working and you need the architecture to actually respect the math.
+**Long context isn't a config flag. It's a math problem.**
+
+&nbsp;&nbsp;▸ &nbsp; **Sparse MoE** — top-K expert routing keeps compute sparse while capacity stays dense<br/>
+&nbsp;&nbsp;▸ &nbsp; **RoPE+YaRN scaling** — holds at **1M tokens** without positional collapse<br/>
+&nbsp;&nbsp;▸ &nbsp; **Deterministic decode** — same input, same output, every time<br/>
+&nbsp;&nbsp;▸ &nbsp; **KV-cache discipline** — doesn't melt under load
+
+Built for the moments when `"just increase context_length"` stops working. The architecture **respects the math**.
 
 ---
 
